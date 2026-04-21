@@ -457,7 +457,19 @@ def normalize_position_management_result(raw: Dict[str, Any]) -> Tuple[Dict[str,
 
     elif action == "ADD":
         if invalidated:
-            downgrade_to_hold("持仓逻辑已失效，已保守降级为 HOLD", "add.invalidated")
+            action = "REDUCE"
+            downgraded = True
+            downgraded_to = "REDUCE"
+            result["allowed"] = True
+            result["direction"] = direction if direction != "none" else "none"
+            result["size_adjustment"] = -abs(size_adjustment) if size_adjustment else -1
+            result["reason"] = (
+                f"{result['reason']}；原持仓逻辑已失效，已自动降级为 REDUCE"
+                if result.get("reason")
+                else "原持仓逻辑已失效，已自动降级为 REDUCE"
+            )
+            normalized = True
+            checks.append("invalidated.add")
         elif direction == "none" or size_adjustment <= 0 or confidence <= 0.5:
             downgrade_to_hold("加仓条件不足，已自动降级为 HOLD", "add.downgrade")
         else:
@@ -493,21 +505,6 @@ def normalize_position_management_result(raw: Dict[str, Any]) -> Tuple[Dict[str,
             result["allowed"] = True
             if result["reason"] == "":
                 result["reason"] = "满足移动止损条件"
-
-    if invalidated and action == "ADD":
-        action = "REDUCE"
-        downgraded = True
-        downgraded_to = "REDUCE"
-        result["allowed"] = True
-        result["direction"] = direction if direction != "none" else "none"
-        result["size_adjustment"] = -abs(size_adjustment) if size_adjustment else -1
-        result["reason"] = (
-            f"{result['reason']}；原持仓逻辑已失效，已自动降级为 REDUCE"
-            if result.get("reason")
-            else "原持仓逻辑已失效，已自动降级为 REDUCE"
-        )
-        normalized = True
-        checks.append("invalidated.add")
 
     result["action"] = action
     result["reason"] = _ensure_reason(result["reason"], "暂无充分理由调整持仓")
