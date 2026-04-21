@@ -1,0 +1,8 @@
+﻿mss
+pillow
+pyautogui
+python-dotenv
+openai
+pytest
+black
+flake8

@@ -1,0 +1,801 @@
+[2026-04-21T01:49:23] pytest log test
+[2026-04-21T01:51:00] 主程序启动，准备执行单次流程。
+[2026-04-21T01:51:00] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_20260421_015100_792876.png
+[2026-04-21T01:51:00] 开始分析开仓信号。
+[2026-04-21T01:51:00] GPT analysis failed once, retrying. err=Real GPT image analysis is not enabled yet.
+[2026-04-21T01:51:00] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=NONE, confidence=0)。'}
+[2026-04-21T01:51:00] 主程序单次流程结束。
+[2026-04-21T01:53:49] 主程序启动，准备执行单次流程。
+[2026-04-21T01:53:50] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_20260421_015349_928195.png
+[2026-04-21T01:53:50] 开始分析开仓信号。
+[2026-04-21T01:53:50] GPT analysis failed once, retrying. err=Real GPT image analysis is not enabled yet.
+[2026-04-21T01:53:50] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=NONE, confidence=0)。'}
+[2026-04-21T01:53:50] 主程序单次流程结束。
+[2026-04-21T01:57:50] pytest log test
+[2026-04-21T01:57:50] 开始分析开仓信号。
+[2026-04-21T10:54:58] 主程序启动，准备执行单次流程。
+[2026-04-21T10:54:58] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_20260421_105458_792438.png
+[2026-04-21T10:54:58] 开始分析开仓信号。
+[2026-04-21T10:54:58] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=NONE, confidence=0)。'}
+[2026-04-21T10:54:58] 主程序单次流程结束。
+[2026-04-21T11:08:24] 主程序启动，准备执行单次流程。
+[2026-04-21T11:08:24] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_20260421_110824_295749.png
+[2026-04-21T11:08:24] 开始分析开仓信号。
+[2026-04-21T11:08:24] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=NONE, confidence=0)。'}
+[2026-04-21T11:08:24] 主程序单次流程结束。
+[2026-04-21T11:32:08] 开始分析开仓信号。
+[2026-04-21T11:32:08] pytest log test
+[2026-04-21T11:32:25] 开始分析开仓信号。
+[2026-04-21T11:32:25] pytest log test
+[2026-04-21T11:32:32] 主程序启动，准备执行单次流程。
+[2026-04-21T11:32:32] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_20260421_113232_102164.png
+[2026-04-21T11:32:32] 开始分析开仓信号。
+[2026-04-21T11:32:32] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=NONE, confidence=0)。'}
+[2026-04-21T11:32:32] 主程序单次流程结束。
+[2026-04-21T11:32:41] 开始分析开仓信号。
+[2026-04-21T11:32:41] pytest log test
+[2026-04-21T11:33:06] 开始分析开仓信号。
+[2026-04-21T11:33:06] pytest log test
+[2026-04-21T11:33:12] 主程序启动，准备执行单次流程。
+[2026-04-21T11:33:12] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_20260421_113312_513415.png
+[2026-04-21T11:33:12] 开始分析开仓信号。
+[2026-04-21T11:33:12] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=NONE, confidence=0)。'}
+[2026-04-21T11:33:12] 主程序单次流程结束。
+[2026-04-21T11:33:31] 开始分析开仓信号。
+[2026-04-21T11:33:31] pytest log test
+[2026-04-21T11:33:37] 主程序启动，准备执行单次流程。
+[2026-04-21T11:33:37] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_20260421_113337_187202.png
+[2026-04-21T11:33:37] 开始分析开仓信号。
+[2026-04-21T11:33:37] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=NONE, confidence=0)。'}
+[2026-04-21T11:33:37] 主程序单次流程结束。
+[2026-04-21T12:02:14] 主程序启动，准备执行单次流程。
+[2026-04-21T12:02:14] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_20260421_120214_670962.png
+[2026-04-21T12:02:14] 开始分析开仓信号。
+[2026-04-21T12:02:22] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=NONE, confidence=0)。'}
+[2026-04-21T12:02:22] 主程序单次流程结束。
+[2026-04-21T12:09:34] 主程序启动，准备执行单次流程。
+[2026-04-21T12:09:34] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_20260421_120934_283159.png
+[2026-04-21T12:09:34] 开始分析开仓信号。
+[2026-04-21T12:09:34] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=NONE, confidence=0)。'}
+[2026-04-21T12:09:34] 主程序单次流程结束。
+[2026-04-21T12:09:47] 主程序启动，准备执行单次流程。
+[2026-04-21T12:09:47] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_20260421_120947_396749.png
+[2026-04-21T12:09:47] 开始分析开仓信号。
+[2026-04-21T12:09:47] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=NONE, confidence=0)。'}
+[2026-04-21T12:09:47] 主程序单次流程结束。
+[2026-04-21T12:21:56] 主程序启动，准备执行单次流程。
+[2026-04-21T12:21:56] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_20260421_122156_758367.png
+[2026-04-21T12:21:56] 开始分析开仓信号。
+[2026-04-21T12:22:04] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=NONE, confidence=0)。'}
+[2026-04-21T12:22:04] 主程序单次流程结束。
+[2026-04-21T12:22:20] 主程序启动，准备执行单次流程。
+[2026-04-21T12:22:20] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_20260421_122220_196147.png
+[2026-04-21T12:22:20] 开始分析开仓信号。
+[2026-04-21T12:22:28] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=NONE, confidence=0)。'}
+[2026-04-21T12:22:28] 主程序单次流程结束。
+[2026-04-21T12:36:40] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 5分 下]
+[2026-04-21T12:36:40] 行情端窗口处于最小化状态，已执行 restore。
+[2026-04-21T12:36:40] 已将行情端窗口切换到前台并激活。
+[2026-04-21T12:36:41] 截图前等待 0.5 秒完成。
+[2026-04-21T12:36:41] 截图保存完成: D:\agent_workspace\logs\screenshots\chart_20260421_123641_378178.png
+[2026-04-21T12:36:41] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 5分 下]
+[2026-04-21T12:36:41] 已将行情端窗口切换到前台并激活。
+[2026-04-21T12:36:42] 截图前等待 0.5 秒完成。
+[2026-04-21T12:36:42] 截图保存完成: D:\agent_workspace\logs\screenshots\order_panel_20260421_123642_100284.png
+[2026-04-21T12:36:42] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 5分 下]
+[2026-04-21T12:36:42] 已将行情端窗口切换到前台并激活。
+[2026-04-21T12:36:42] 截图前等待 0.5 秒完成。
+[2026-04-21T12:36:42] 截图保存完成: D:\agent_workspace\logs\screenshots\position_20260421_123642_654191.png
+[2026-04-21T12:36:42] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 5分 下]
+[2026-04-21T12:36:42] 已将行情端窗口切换到前台并激活。
+[2026-04-21T12:36:43] 截图前等待 0.5 秒完成。
+[2026-04-21T12:36:43] 截图保存完成: D:\agent_workspace\logs\screenshots\price_20260421_123643_185064.png
+[2026-04-21T12:46:22] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 5分 下]
+[2026-04-21T12:46:22] 已将行情端窗口切换到前台并激活。
+[2026-04-21T12:46:22] 截图前等待 0.5 秒完成。
+[2026-04-21T12:46:23] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_124622_852186.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 5分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T12:46:23] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_124622_852186.png
+[2026-04-21T12:46:23] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_20260421_124623_175194.png | relative_box=(100, 100, 1000, 700) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T12:46:23] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_panel_20260421_124623_208186.png | relative_box=(1020, 100, 1540, 700) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T12:46:23] 区域截图保存完成: D:\agent_workspace\logs\screenshots\position_20260421_124623_234213.png | relative_box=(1020, 720, 1540, 940) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T12:46:23] 区域截图保存完成: D:\agent_workspace\logs\screenshots\price_20260421_124623_246194.png | relative_box=(100, 720, 420, 840) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T13:16:18] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 5分 下]
+[2026-04-21T13:16:18] 已将行情端窗口切换到前台并激活。
+[2026-04-21T13:16:19] 截图前等待 0.5 秒完成。
+[2026-04-21T13:16:19] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_131619_204547.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 5分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T13:16:19] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_131619_204547.png
+[2026-04-21T13:16:19] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_131619_523552.png | region={'left': 24, 'top': 56, 'width': 520, 'height': 320} | relative_box=(24, 56, 544, 376) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T13:16:19] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_131619_537551.png | region={'left': 554, 'top': 56, 'width': 520, 'height': 320} | relative_box=(554, 56, 1074, 376) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T13:16:19] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_131619_550547.png | region={'left': 24, 'top': 392, 'width': 520, 'height': 320} | relative_box=(24, 392, 544, 712) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T13:16:19] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_131619_562552.png | region={'left': 554, 'top': 392, 'width': 520, 'height': 320} | relative_box=(554, 392, 1074, 712) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T13:16:19] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_131619_575539.png | region={'left': 1090, 'top': 56, 'width': 360, 'height': 656} | relative_box=(1090, 56, 1450, 712) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T13:24:00] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 5分 下]
+[2026-04-21T13:24:00] 行情端窗口处于最小化状态，已执行 restore。
+[2026-04-21T13:24:00] 已将行情端窗口切换到前台并激活。
+[2026-04-21T13:24:00] 截图前等待 0.5 秒完成。
+[2026-04-21T13:24:01] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_132400_697880.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 5分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T13:24:01] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_132400_697880.png
+[2026-04-21T13:24:01] chart_grid 已保存: D:\agent_workspace\logs\screenshots\chart_grid_20260421_132401_018880.png | chart_grid_region={'left': 18, 'top': 48, 'width': 1058, 'height': 674} | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T13:24:01] chart_grid 四宫格拆分: {'chart_60m': {'left': 6, 'top': 12, 'width': 517, 'height': 313}, 'chart_15m': {'left': 535, 'top': 12, 'width': 517, 'height': 313}, 'chart_5m': {'left': 6, 'top': 349, 'width': 517, 'height': 313}, 'chart_1m': {'left': 535, 'top': 349, 'width': 517, 'height': 313}}
+[2026-04-21T13:24:01] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_132401_068882.png | region={'left': 6, 'top': 12, 'width': 517, 'height': 313} | relative_box=(6, 12, 523, 325) | window_rect={'left': 0, 'top': 0, 'width': 1058, 'height': 674}
+[2026-04-21T13:24:01] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_132401_081878.png | region={'left': 535, 'top': 12, 'width': 517, 'height': 313} | relative_box=(535, 12, 1052, 325) | window_rect={'left': 0, 'top': 0, 'width': 1058, 'height': 674}
+[2026-04-21T13:24:01] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_132401_095882.png | region={'left': 6, 'top': 349, 'width': 517, 'height': 313} | relative_box=(6, 349, 523, 662) | window_rect={'left': 0, 'top': 0, 'width': 1058, 'height': 674}
+[2026-04-21T13:24:01] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_132401_108879.png | region={'left': 535, 'top': 349, 'width': 517, 'height': 313} | relative_box=(535, 349, 1052, 662) | window_rect={'left': 0, 'top': 0, 'width': 1058, 'height': 674}
+[2026-04-21T13:24:01] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_132401_121878.png | region={'left': 1088, 'top': 48, 'width': 362, 'height': 674} | relative_box=(1088, 48, 1450, 722) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T13:39:16] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 5分 下]
+[2026-04-21T13:39:16] 行情端窗口处于最小化状态，已执行 restore。
+[2026-04-21T13:39:16] 已将行情端窗口切换到前台并激活。
+[2026-04-21T13:39:16] 截图前等待 0.5 秒完成。
+[2026-04-21T13:39:17] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_133916_967788.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 5分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T13:39:17] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_133916_967788.png
+[2026-04-21T13:39:17] 完整窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T13:39:17] chart_grid 已保存: D:\agent_workspace\logs\screenshots\chart_grid_20260421_133917_302789.png | chart_grid_region={'left': 2, 'top': 66, 'width': 1590, 'height': 908} | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T13:39:17] ORDER_BOOK_REGION: {'left': 1594, 'top': 66, 'width': 274, 'height': 908}
+[2026-04-21T13:39:17] 子图裁剪参数: inset=(2, 2), regions={'chart_60m': {'left': 2, 'top': 2, 'width': 807, 'height': 451}, 'chart_15m': {'left': 815, 'top': 2, 'width': 773, 'height': 451}, 'chart_5m': {'left': 2, 'top': 459, 'width': 807, 'height': 447}, 'chart_1m': {'left': 815, 'top': 459, 'width': 773, 'height': 447}}
+[2026-04-21T13:39:17] chart_60m region: {'left': 2, 'top': 2, 'width': 807, 'height': 451}
+[2026-04-21T13:39:17] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_133917_383802.png | region={'left': 2, 'top': 2, 'width': 807, 'height': 451} | relative_box=(2, 2, 809, 453) | window_rect={'left': 0, 'top': 0, 'width': 1590, 'height': 908}
+[2026-04-21T13:39:17] chart_15m region: {'left': 815, 'top': 2, 'width': 773, 'height': 451}
+[2026-04-21T13:39:17] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_133917_409802.png | region={'left': 815, 'top': 2, 'width': 773, 'height': 451} | relative_box=(815, 2, 1588, 453) | window_rect={'left': 0, 'top': 0, 'width': 1590, 'height': 908}
+[2026-04-21T13:39:17] chart_5m region: {'left': 2, 'top': 459, 'width': 807, 'height': 447}
+[2026-04-21T13:39:17] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_133917_433802.png | region={'left': 2, 'top': 459, 'width': 807, 'height': 447} | relative_box=(2, 459, 809, 906) | window_rect={'left': 0, 'top': 0, 'width': 1590, 'height': 908}
+[2026-04-21T13:39:17] chart_1m region: {'left': 815, 'top': 459, 'width': 773, 'height': 447}
+[2026-04-21T13:39:17] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_133917_478802.png | region={'left': 815, 'top': 459, 'width': 773, 'height': 447} | relative_box=(815, 459, 1588, 906) | window_rect={'left': 0, 'top': 0, 'width': 1590, 'height': 908}
+[2026-04-21T13:39:17] order_book region: {'left': 1594, 'top': 66, 'width': 274, 'height': 908}
+[2026-04-21T13:39:17] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_133917_503803.png | region={'left': 1594, 'top': 66, 'width': 274, 'height': 908} | relative_box=(1594, 66, 1868, 974) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T13:47:29] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 5分 下]
+[2026-04-21T13:47:29] 行情端窗口处于最小化状态，已执行 restore。
+[2026-04-21T13:47:29] 已将行情端窗口切换到前台并激活。
+[2026-04-21T13:47:30] 截图前等待 0.5 秒完成。
+[2026-04-21T13:47:30] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_134730_351876.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 5分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T13:47:30] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_134730_351876.png
+[2026-04-21T13:47:30] 完整窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T13:47:30] chart_grid 已保存: D:\agent_workspace\logs\screenshots\chart_grid_20260421_134730_694866.png | chart_grid_region={'left': 2, 'top': 66, 'width': 1590, 'height': 908} | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T13:47:30] ORDER_BOOK_REGION: {'left': 1594, 'top': 66, 'width': 274, 'height': 908}
+[2026-04-21T13:47:30] 子图裁剪参数: inset=(2, 2), regions={'chart_60m': {'left': 2, 'top': 2, 'width': 807, 'height': 451}, 'chart_15m': {'left': 815, 'top': 2, 'width': 775, 'height': 459}, 'chart_5m': {'left': 2, 'top': 459, 'width': 817, 'height': 457}, 'chart_1m': {'left': 815, 'top': 459, 'width': 775, 'height': 459}}
+[2026-04-21T13:47:30] chart_60m region: {'left': 2, 'top': 2, 'width': 807, 'height': 451}
+[2026-04-21T13:47:30] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_134730_782863.png | region={'left': 2, 'top': 2, 'width': 807, 'height': 451} | relative_box=(2, 2, 809, 453) | window_rect={'left': 0, 'top': 0, 'width': 1590, 'height': 908}
+[2026-04-21T13:47:30] chart_15m region: {'left': 815, 'top': 2, 'width': 775, 'height': 459}
+[2026-04-21T13:47:30] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_134730_808863.png | region={'left': 815, 'top': 2, 'width': 775, 'height': 459} | relative_box=(815, 2, 1590, 461) | window_rect={'left': 0, 'top': 0, 'width': 1590, 'height': 908}
+[2026-04-21T13:47:30] chart_5m region: {'left': 2, 'top': 459, 'width': 817, 'height': 457}
+[2026-04-21T13:47:30] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_134730_833863.png | region={'left': 2, 'top': 459, 'width': 817, 'height': 457} | relative_box=(2, 459, 819, 916) | window_rect={'left': 0, 'top': 0, 'width': 1590, 'height': 908}
+[2026-04-21T13:47:30] chart_1m region: {'left': 815, 'top': 459, 'width': 775, 'height': 459}
+[2026-04-21T13:47:30] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_134730_858863.png | region={'left': 815, 'top': 459, 'width': 775, 'height': 459} | relative_box=(815, 459, 1590, 918) | window_rect={'left': 0, 'top': 0, 'width': 1590, 'height': 908}
+[2026-04-21T13:47:30] order_book region: {'left': 1594, 'top': 66, 'width': 274, 'height': 908}
+[2026-04-21T13:47:30] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_134730_883863.png | region={'left': 1594, 'top': 66, 'width': 274, 'height': 908} | relative_box=(1594, 66, 1868, 974) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T13:54:28] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 5分 下]
+[2026-04-21T13:54:29] 已将行情端窗口切换到前台并激活。
+[2026-04-21T13:54:29] 截图前等待 0.5 秒完成。
+[2026-04-21T13:54:29] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_135429_508626.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 5分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T13:54:29] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_135429_508626.png
+[2026-04-21T13:54:29] 完整窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T13:54:29] chart_grid 已保存: D:\agent_workspace\logs\screenshots\chart_grid_20260421_135429_854628.png | chart_grid_region={'left': 2, 'top': 66, 'width': 1590, 'height': 908} | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T13:54:29] ORDER_BOOK_REGION: {'left': 1594, 'top': 66, 'width': 274, 'height': 908}
+[2026-04-21T13:54:29] 子图裁剪参数: inset=(2, 2), regions={'chart_60m': {'left': 2, 'top': 2, 'width': 807, 'height': 451}, 'chart_15m': {'left': 815, 'top': 2, 'width': 783, 'height': 465}, 'chart_5m': {'left': 2, 'top': 459, 'width': 825, 'height': 465}, 'chart_1m': {'left': 815, 'top': 459, 'width': 785, 'height': 467}}
+[2026-04-21T13:54:29] chart_60m region: {'left': 2, 'top': 2, 'width': 807, 'height': 451}
+[2026-04-21T13:54:29] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_135429_944627.png | region={'left': 2, 'top': 2, 'width': 807, 'height': 451} | relative_box=(2, 2, 809, 453) | window_rect={'left': 0, 'top': 0, 'width': 1590, 'height': 908}
+[2026-04-21T13:54:29] chart_15m region: {'left': 815, 'top': 2, 'width': 783, 'height': 465}
+[2026-04-21T13:54:29] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_135429_972624.png | region={'left': 815, 'top': 2, 'width': 783, 'height': 465} | relative_box=(815, 2, 1598, 467) | window_rect={'left': 0, 'top': 0, 'width': 1590, 'height': 908}
+[2026-04-21T13:54:29] chart_5m region: {'left': 2, 'top': 459, 'width': 825, 'height': 465}
+[2026-04-21T13:54:30] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_135429_998626.png | region={'left': 2, 'top': 459, 'width': 825, 'height': 465} | relative_box=(2, 459, 827, 924) | window_rect={'left': 0, 'top': 0, 'width': 1590, 'height': 908}
+[2026-04-21T13:54:30] chart_1m region: {'left': 815, 'top': 459, 'width': 785, 'height': 467}
+[2026-04-21T13:54:30] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_135430_025627.png | region={'left': 815, 'top': 459, 'width': 785, 'height': 467} | relative_box=(815, 459, 1600, 926) | window_rect={'left': 0, 'top': 0, 'width': 1590, 'height': 908}
+[2026-04-21T13:54:30] order_book region: {'left': 1594, 'top': 66, 'width': 274, 'height': 908}
+[2026-04-21T13:54:30] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_135430_055629.png | region={'left': 1594, 'top': 66, 'width': 274, 'height': 908} | relative_box=(1594, 66, 1868, 974) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:04:07] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 5分 下]
+[2026-04-21T14:04:07] 行情端窗口处于最小化状态，已执行 restore。
+[2026-04-21T14:04:07] 已将行情端窗口切换到前台并激活。
+[2026-04-21T14:04:08] 截图前等待 0.5 秒完成。
+[2026-04-21T14:04:08] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_140408_237661.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 5分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:04:08] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_140408_237661.png
+[2026-04-21T14:04:08] 完整窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:04:08] CHART_GRID_REGION 调整前后: before={'left': 2, 'top': 66, 'width': 1590, 'height': 908}, after={'left': 2, 'top': 66, 'width': 1606, 'height': 908}
+[2026-04-21T14:04:08] ORDER_BOOK_REGION 调整前后: before={'left': 1594, 'top': 66, 'width': 274, 'height': 908}, after={'left': 1610, 'top': 66, 'width': 258, 'height': 908}
+[2026-04-21T14:04:08] chart_grid 已保存: D:\agent_workspace\logs\screenshots\chart_grid_20260421_140408_587673.png | chart_grid_region={'left': 2, 'top': 66, 'width': 1606, 'height': 908} | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:04:08] ORDER_BOOK_REGION: {'left': 1610, 'top': 66, 'width': 258, 'height': 908}
+[2026-04-21T14:04:08] 子图裁剪参数: inset=(2, 2), regions={'chart_60m': {'left': 2, 'top': 2, 'width': 807, 'height': 451}, 'chart_15m': {'left': 815, 'top': 2, 'width': 795, 'height': 465}, 'chart_5m': {'left': 2, 'top': 459, 'width': 821, 'height': 465}, 'chart_1m': {'left': 815, 'top': 459, 'width': 797, 'height': 467}}
+[2026-04-21T14:04:08] chart_60m region: {'left': 2, 'top': 2, 'width': 807, 'height': 451}
+[2026-04-21T14:04:08] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_140408_674673.png | region={'left': 2, 'top': 2, 'width': 807, 'height': 451} | relative_box=(2, 2, 809, 453) | window_rect={'left': 0, 'top': 0, 'width': 1606, 'height': 908}
+[2026-04-21T14:04:08] chart_15m region: {'left': 815, 'top': 2, 'width': 795, 'height': 465}
+[2026-04-21T14:04:08] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_140408_701663.png | region={'left': 815, 'top': 2, 'width': 795, 'height': 465} | relative_box=(815, 2, 1610, 467) | window_rect={'left': 0, 'top': 0, 'width': 1606, 'height': 908}
+[2026-04-21T14:04:08] chart_5m region: {'left': 2, 'top': 459, 'width': 821, 'height': 465}
+[2026-04-21T14:04:08] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_140408_727673.png | region={'left': 2, 'top': 459, 'width': 821, 'height': 465} | relative_box=(2, 459, 823, 924) | window_rect={'left': 0, 'top': 0, 'width': 1606, 'height': 908}
+[2026-04-21T14:04:08] chart_1m region: {'left': 815, 'top': 459, 'width': 797, 'height': 467}
+[2026-04-21T14:04:08] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_140408_757662.png | region={'left': 815, 'top': 459, 'width': 797, 'height': 467} | relative_box=(815, 459, 1612, 926) | window_rect={'left': 0, 'top': 0, 'width': 1606, 'height': 908}
+[2026-04-21T14:04:08] order_book region: {'left': 1610, 'top': 66, 'width': 258, 'height': 908}
+[2026-04-21T14:04:08] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_140408_801661.png | region={'left': 1610, 'top': 66, 'width': 258, 'height': 908} | relative_box=(1610, 66, 1868, 974) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:04:08] 问题检查: 15m=右侧已放松, 1m=右侧已放松, 5m=已收敛串图风险
+[2026-04-21T14:09:56] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 5分 下]
+[2026-04-21T14:09:56] 已将行情端窗口切换到前台并激活。
+[2026-04-21T14:09:56] 截图前等待 0.5 秒完成。
+[2026-04-21T14:09:56] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_140956_547004.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 5分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:09:56] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_140956_547004.png
+[2026-04-21T14:09:56] 完整窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:09:56] CHART_GRID_REGION 调整前后: before={'left': 2, 'top': 66, 'width': 1590, 'height': 908}, after={'left': 2, 'top': 66, 'width': 1616, 'height': 908}
+[2026-04-21T14:09:56] ORDER_BOOK_REGION 调整前后: before={'left': 1594, 'top': 66, 'width': 274, 'height': 908}, after={'left': 1620, 'top': 66, 'width': 248, 'height': 908}
+[2026-04-21T14:09:57] chart_grid 已保存: D:\agent_workspace\logs\screenshots\chart_grid_20260421_140956_919015.png | chart_grid_region={'left': 2, 'top': 66, 'width': 1616, 'height': 908} | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:09:57] ORDER_BOOK_REGION: {'left': 1620, 'top': 66, 'width': 248, 'height': 908}
+[2026-04-21T14:09:57] 子图裁剪参数: inset=(2, 2), regions={'chart_60m': {'left': 2, 'top': 2, 'width': 807, 'height': 451}, 'chart_15m': {'left': 815, 'top': 2, 'width': 803, 'height': 469}, 'chart_5m': {'left': 2, 'top': 459, 'width': 825, 'height': 469}, 'chart_1m': {'left': 815, 'top': 459, 'width': 805, 'height': 471}}
+[2026-04-21T14:09:57] chart_60m region: {'left': 2, 'top': 2, 'width': 807, 'height': 451}
+[2026-04-21T14:09:57] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_140957_010017.png | region={'left': 2, 'top': 2, 'width': 807, 'height': 451} | relative_box=(2, 2, 809, 453) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 908}
+[2026-04-21T14:09:57] chart_15m region: {'left': 815, 'top': 2, 'width': 803, 'height': 469}
+[2026-04-21T14:09:57] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_140957_042013.png | region={'left': 815, 'top': 2, 'width': 803, 'height': 469} | relative_box=(815, 2, 1618, 471) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 908}
+[2026-04-21T14:09:57] chart_5m region: {'left': 2, 'top': 459, 'width': 825, 'height': 469}
+[2026-04-21T14:09:57] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_140957_068010.png | region={'left': 2, 'top': 459, 'width': 825, 'height': 469} | relative_box=(2, 459, 827, 928) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 908}
+[2026-04-21T14:09:57] chart_1m region: {'left': 815, 'top': 459, 'width': 805, 'height': 471}
+[2026-04-21T14:09:57] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_140957_095005.png | region={'left': 815, 'top': 459, 'width': 805, 'height': 471} | relative_box=(815, 459, 1620, 930) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 908}
+[2026-04-21T14:09:57] order_book region: {'left': 1620, 'top': 66, 'width': 248, 'height': 908}
+[2026-04-21T14:09:57] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_140957_120002.png | region={'left': 1620, 'top': 66, 'width': 248, 'height': 908} | relative_box=(1620, 66, 1868, 974) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:09:57] 问题检查: 15m=右侧已放松, 1m=右侧已放松, 5m=已收敛串图风险
+[2026-04-21T14:16:20] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 5分 下]
+[2026-04-21T14:16:20] 已将行情端窗口切换到前台并激活。
+[2026-04-21T14:16:20] 截图前等待 0.5 秒完成。
+[2026-04-21T14:16:20] 点击进入行情前窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:16:20] 点击进入行情坐标: (113, 113) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:16:21] 点击后等待界面稳定: wait_seconds=0.8, checks=3
+[2026-04-21T14:16:22] 等待稳定后重新获取窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:16:22] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_141622_093193.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 5分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:16:22] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_141622_093193.png
+[2026-04-21T14:16:22] 完整窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:16:22] CHART_GRID_REGION 调整前后: before={'left': 2, 'top': 66, 'width': 1590, 'height': 908}, after={'left': 2, 'top': 66, 'width': 1616, 'height': 908}
+[2026-04-21T14:16:22] ORDER_BOOK_REGION 调整前后: before={'left': 1594, 'top': 66, 'width': 274, 'height': 908}, after={'left': 1620, 'top': 66, 'width': 248, 'height': 908}
+[2026-04-21T14:16:22] chart_grid 已保存: D:\agent_workspace\logs\screenshots\chart_grid_20260421_141622_357938.png | chart_grid_region={'left': 2, 'top': 66, 'width': 1616, 'height': 908} | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:16:22] chart_grid 已检测到并裁剪完成: True
+[2026-04-21T14:16:22] order_book 区域已准备: {'left': 1620, 'top': 66, 'width': 248, 'height': 908}
+[2026-04-21T14:16:22] 子图裁剪参数: inset=(2, 2), regions={'chart_60m': {'left': 2, 'top': 2, 'width': 807, 'height': 451}, 'chart_15m': {'left': 815, 'top': 2, 'width': 803, 'height': 469}, 'chart_5m': {'left': 2, 'top': 459, 'width': 825, 'height': 469}, 'chart_1m': {'left': 815, 'top': 459, 'width': 805, 'height': 471}}
+[2026-04-21T14:16:22] chart_60m region: {'left': 2, 'top': 2, 'width': 807, 'height': 451}
+[2026-04-21T14:16:22] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_141622_457929.png | region={'left': 2, 'top': 2, 'width': 807, 'height': 451} | relative_box=(2, 2, 809, 453) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 908}
+[2026-04-21T14:16:22] chart_15m region: {'left': 815, 'top': 2, 'width': 803, 'height': 469}
+[2026-04-21T14:16:22] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_141622_490926.png | region={'left': 815, 'top': 2, 'width': 803, 'height': 469} | relative_box=(815, 2, 1618, 471) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 908}
+[2026-04-21T14:16:22] chart_5m region: {'left': 2, 'top': 459, 'width': 825, 'height': 469}
+[2026-04-21T14:16:22] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_141622_519931.png | region={'left': 2, 'top': 459, 'width': 825, 'height': 469} | relative_box=(2, 459, 827, 928) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 908}
+[2026-04-21T14:16:22] chart_1m region: {'left': 815, 'top': 459, 'width': 805, 'height': 471}
+[2026-04-21T14:16:22] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_141622_548942.png | region={'left': 815, 'top': 459, 'width': 805, 'height': 471} | relative_box=(815, 459, 1620, 930) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 908}
+[2026-04-21T14:16:22] order_book region: {'left': 1620, 'top': 66, 'width': 248, 'height': 908}
+[2026-04-21T14:16:22] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_141622_579930.png | region={'left': 1620, 'top': 66, 'width': 248, 'height': 908} | relative_box=(1620, 66, 1868, 974) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:16:22] 问题检查: 15m=右侧已放松, 1m=右侧已放松, 5m=仍存在右侧过紧或串图风险, bottom=底部指标区已放松
+[2026-04-21T14:16:22] 最终裁剪参数: CHART_GRID_REGION={'left': 2, 'top': 66, 'width': 1616, 'height': 908}, ORDER_BOOK_REGION={'left': 1620, 'top': 66, 'width': 248, 'height': 908}, CHART_60M_REGION={'left': 0, 'top': 0, 'width': 811, 'height': 455}, CHART_15M_REGION={'left': 813, 'top': 0, 'width': 807, 'height': 473}, CHART_5M_REGION={'left': 0, 'top': 457, 'width': 829, 'height': 473}, CHART_1M_REGION={'left': 813, 'top': 457, 'width': 809, 'height': 475}
+[2026-04-21T14:22:59] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下]
+[2026-04-21T14:22:59] 已将行情端窗口切换到前台并激活。
+[2026-04-21T14:23:00] 截图前等待 0.5 秒完成。
+[2026-04-21T14:23:00] 点击进入行情前窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:23:00] 点击进入行情坐标: (113, 113) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:23:00] 点击后等待界面稳定: wait_seconds=0.8, checks=3
+[2026-04-21T14:23:01] 等待稳定后重新获取窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:23:01] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_142301_546218.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:23:01] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_142301_546218.png
+[2026-04-21T14:23:01] 完整窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:23:01] CHART_GRID_REGION 调整前后: before={'left': 2, 'top': 66, 'width': 1590, 'height': 908}, after={'left': 2, 'top': 66, 'width': 1616, 'height': 908}
+[2026-04-21T14:23:01] ORDER_BOOK_REGION 调整前后: before={'left': 1594, 'top': 66, 'width': 274, 'height': 908}, after={'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T14:23:01] chart_grid 已保存: D:\agent_workspace\logs\screenshots\chart_grid_20260421_142301_806683.png | chart_grid_region={'left': 2, 'top': 66, 'width': 1616, 'height': 908} | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:23:01] chart_grid 已检测到并裁剪完成: True
+[2026-04-21T14:23:01] order_book 区域已准备: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T14:23:01] 子图裁剪参数: inset=(2, 2), regions={'chart_60m': {'left': 2, 'top': 2, 'width': 807, 'height': 451}, 'chart_15m': {'left': 815, 'top': 2, 'width': 803, 'height': 469}, 'chart_5m': {'left': 2, 'top': 459, 'width': 825, 'height': 469}, 'chart_1m': {'left': 815, 'top': 459, 'width': 805, 'height': 471}}
+[2026-04-21T14:23:01] chart_60m region: {'left': 2, 'top': 2, 'width': 807, 'height': 451}
+[2026-04-21T14:23:01] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_142301_899679.png | region={'left': 2, 'top': 2, 'width': 807, 'height': 451} | relative_box=(2, 2, 809, 453) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 908}
+[2026-04-21T14:23:01] chart_15m region: {'left': 815, 'top': 2, 'width': 803, 'height': 469}
+[2026-04-21T14:23:01] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_142301_928678.png | region={'left': 815, 'top': 2, 'width': 803, 'height': 469} | relative_box=(815, 2, 1618, 471) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 908}
+[2026-04-21T14:23:01] chart_5m region: {'left': 2, 'top': 459, 'width': 825, 'height': 469}
+[2026-04-21T14:23:01] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_142301_957676.png | region={'left': 2, 'top': 459, 'width': 825, 'height': 469} | relative_box=(2, 459, 827, 928) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 908}
+[2026-04-21T14:23:01] chart_1m region: {'left': 815, 'top': 459, 'width': 805, 'height': 471}
+[2026-04-21T14:23:02] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_142301_985679.png | region={'left': 815, 'top': 459, 'width': 805, 'height': 471} | relative_box=(815, 459, 1620, 930) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 908}
+[2026-04-21T14:23:02] order_book region: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T14:23:02] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_142302_012676.png | region={'left': 1608, 'top': 66, 'width': 328, 'height': 908} | relative_box=(1608, 66, 1936, 974) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:23:02] 问题检查: 15m=右侧已放松, 1m=右侧已放松, 5m=仍存在右侧过紧或串图风险, bottom=底部指标区已放松
+[2026-04-21T14:23:02] 最终裁剪参数: CHART_GRID_REGION={'left': 2, 'top': 66, 'width': 1616, 'height': 908}, ORDER_BOOK_REGION={'left': 1608, 'top': 66, 'width': 328, 'height': 908}, CHART_60M_REGION={'left': 0, 'top': 0, 'width': 811, 'height': 455}, CHART_15M_REGION={'left': 813, 'top': 0, 'width': 807, 'height': 473}, CHART_5M_REGION={'left': 0, 'top': 457, 'width': 829, 'height': 473}, CHART_1M_REGION={'left': 813, 'top': 457, 'width': 809, 'height': 475}
+[2026-04-21T14:29:10] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下]
+[2026-04-21T14:29:10] 已将行情端窗口切换到前台并激活。
+[2026-04-21T14:29:10] 截图前等待 0.5 秒完成。
+[2026-04-21T14:29:10] 点击进入行情前窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:29:10] 点击进入行情坐标: (113, 113) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:29:11] 点击后等待界面稳定: wait_seconds=0.8, checks=3
+[2026-04-21T14:29:12] 等待稳定后重新获取窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:29:12] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_142912_016301.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:29:12] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_142912_016301.png
+[2026-04-21T14:29:12] 完整窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:29:12] CHART_GRID_REGION 调整前后: before={'left': 2, 'top': 66, 'width': 1590, 'height': 908}, after={'left': 2, 'top': 66, 'width': 1616, 'height': 918}
+[2026-04-21T14:29:12] ORDER_BOOK_REGION 调整前后: before={'left': 1594, 'top': 66, 'width': 274, 'height': 908}, after={'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T14:29:12] chart_grid 已保存: D:\agent_workspace\logs\screenshots\chart_grid_20260421_142912_243289.png | chart_grid_region={'left': 2, 'top': 66, 'width': 1616, 'height': 918} | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:29:12] chart_grid 已检测到并裁剪完成: True
+[2026-04-21T14:29:12] order_book 区域已准备: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T14:29:12] 子图裁剪参数: inset=(2, 2), regions={'chart_60m': {'left': 2, 'top': 2, 'width': 807, 'height': 451}, 'chart_15m': {'left': 815, 'top': 2, 'width': 803, 'height': 469}, 'chart_5m': {'left': 2, 'top': 459, 'width': 825, 'height': 473}, 'chart_1m': {'left': 815, 'top': 459, 'width': 805, 'height': 475}}
+[2026-04-21T14:29:12] chart_60m region: {'left': 2, 'top': 2, 'width': 807, 'height': 451}
+[2026-04-21T14:29:12] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_142912_332285.png | region={'left': 2, 'top': 2, 'width': 807, 'height': 451} | relative_box=(2, 2, 809, 453) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T14:29:12] chart_15m region: {'left': 815, 'top': 2, 'width': 803, 'height': 469}
+[2026-04-21T14:29:12] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_142912_361301.png | region={'left': 815, 'top': 2, 'width': 803, 'height': 469} | relative_box=(815, 2, 1618, 471) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T14:29:12] chart_5m region: {'left': 2, 'top': 459, 'width': 825, 'height': 473}
+[2026-04-21T14:29:12] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_142912_388291.png | region={'left': 2, 'top': 459, 'width': 825, 'height': 473} | relative_box=(2, 459, 827, 932) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T14:29:12] chart_1m region: {'left': 815, 'top': 459, 'width': 805, 'height': 475}
+[2026-04-21T14:29:12] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_142912_416303.png | region={'left': 815, 'top': 459, 'width': 805, 'height': 475} | relative_box=(815, 459, 1620, 934) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T14:29:12] order_book region: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T14:29:12] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_142912_444293.png | region={'left': 1608, 'top': 66, 'width': 328, 'height': 908} | relative_box=(1608, 66, 1936, 974) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T14:29:12] 问题检查: 15m=右侧已放松, 1m=右侧已放松, 5m=仍存在右侧过紧或串图风险, bottom=底部指标区已放松
+[2026-04-21T14:29:12] 最终裁剪参数: CHART_GRID_REGION={'left': 2, 'top': 66, 'width': 1616, 'height': 918}, ORDER_BOOK_REGION={'left': 1608, 'top': 66, 'width': 328, 'height': 908}, CHART_60M_REGION={'left': 0, 'top': 0, 'width': 811, 'height': 455}, CHART_15M_REGION={'left': 813, 'top': 0, 'width': 807, 'height': 473}, CHART_5M_REGION={'left': 0, 'top': 457, 'width': 829, 'height': 477}, CHART_1M_REGION={'left': 813, 'top': 457, 'width': 809, 'height': 479}
+[2026-04-21T17:03:26] 主程序启动，准备执行单次流程。
+[2026-04-21T17:03:26] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下]
+[2026-04-21T17:03:26] 行情端窗口处于最小化状态，已执行 restore。
+[2026-04-21T17:03:26] 已将行情端窗口切换到前台并激活。
+[2026-04-21T17:03:27] 截图前等待 0.5 秒完成。
+[2026-04-21T17:03:27] 点击进入行情前窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:03:27] 点击进入行情坐标: (113, 113) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:03:27] 点击后等待界面稳定: wait_seconds=0.8, checks=3
+[2026-04-21T17:03:28] 等待稳定后重新获取窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:03:28] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_170328_537655.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:03:28] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_170328_537655.png
+[2026-04-21T17:03:28] 完整窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:03:28] CHART_GRID_REGION 调整前后: before={'left': 2, 'top': 66, 'width': 1590, 'height': 908}, after={'left': 2, 'top': 66, 'width': 1616, 'height': 918}
+[2026-04-21T17:03:28] ORDER_BOOK_REGION 调整前后: before={'left': 1594, 'top': 66, 'width': 274, 'height': 908}, after={'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:03:28] chart_grid 已保存: D:\agent_workspace\logs\screenshots\chart_grid_20260421_170328_746654.png | chart_grid_region={'left': 2, 'top': 66, 'width': 1616, 'height': 918} | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:03:28] chart_grid 已检测到并裁剪完成: True
+[2026-04-21T17:03:28] order_book 区域已准备: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:03:28] 子图裁剪参数: inset=(2, 2), regions={'chart_60m': {'left': 2, 'top': 2, 'width': 807, 'height': 451}, 'chart_15m': {'left': 815, 'top': 2, 'width': 803, 'height': 469}, 'chart_5m': {'left': 2, 'top': 459, 'width': 825, 'height': 473}, 'chart_1m': {'left': 815, 'top': 459, 'width': 805, 'height': 475}}
+[2026-04-21T17:03:28] chart_60m region: {'left': 2, 'top': 2, 'width': 807, 'height': 451}
+[2026-04-21T17:03:28] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_170328_829668.png | region={'left': 2, 'top': 2, 'width': 807, 'height': 451} | relative_box=(2, 2, 809, 453) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:03:28] chart_15m region: {'left': 815, 'top': 2, 'width': 803, 'height': 469}
+[2026-04-21T17:03:28] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_170328_854660.png | region={'left': 815, 'top': 2, 'width': 803, 'height': 469} | relative_box=(815, 2, 1618, 471) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:03:28] chart_5m region: {'left': 2, 'top': 459, 'width': 825, 'height': 473}
+[2026-04-21T17:03:28] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_170328_879668.png | region={'left': 2, 'top': 459, 'width': 825, 'height': 473} | relative_box=(2, 459, 827, 932) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:03:28] chart_1m region: {'left': 815, 'top': 459, 'width': 805, 'height': 475}
+[2026-04-21T17:03:28] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_170328_905656.png | region={'left': 815, 'top': 459, 'width': 805, 'height': 475} | relative_box=(815, 459, 1620, 934) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:03:28] order_book region: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:03:28] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_170328_931658.png | region={'left': 1608, 'top': 66, 'width': 328, 'height': 908} | relative_box=(1608, 66, 1936, 974) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:03:28] 问题检查: 15m=右侧已放松, 1m=右侧已放松, 5m=仍存在右侧过紧或串图风险, bottom=底部指标区已放松
+[2026-04-21T17:03:28] screenshot config frozen for chart regions
+[2026-04-21T17:03:28] only order_book optional tuning allowed
+[2026-04-21T17:03:28] 最终裁剪参数: CHART_GRID_REGION={'left': 2, 'top': 66, 'width': 1616, 'height': 918}, ORDER_BOOK_REGION={'left': 1608, 'top': 66, 'width': 328, 'height': 908}, CHART_60M_REGION={'left': 0, 'top': 0, 'width': 811, 'height': 455}, CHART_15M_REGION={'left': 813, 'top': 0, 'width': 807, 'height': 473}, CHART_5M_REGION={'left': 0, 'top': 457, 'width': 829, 'height': 477}, CHART_1M_REGION={'left': 813, 'top': 457, 'width': 809, 'height': 479}
+[2026-04-21T17:03:28] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_60m_20260421_170328_829668.png
+[2026-04-21T17:03:28] 开始分析开仓信号。
+[2026-04-21T17:03:42] 主程序启动，准备执行单次流程。
+[2026-04-21T17:03:42] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下]
+[2026-04-21T17:03:42] 已将行情端窗口切换到前台并激活。
+[2026-04-21T17:03:42] 截图前等待 0.5 秒完成。
+[2026-04-21T17:03:42] 点击进入行情前窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:03:42] 点击进入行情坐标: (113, 113) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:03:42] 点击后等待界面稳定: wait_seconds=0.8, checks=3
+[2026-04-21T17:03:43] 等待稳定后重新获取窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:03:43] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_170343_752183.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:03:43] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_170343_752183.png
+[2026-04-21T17:03:43] 完整窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:03:43] CHART_GRID_REGION 调整前后: before={'left': 2, 'top': 66, 'width': 1590, 'height': 908}, after={'left': 2, 'top': 66, 'width': 1616, 'height': 918}
+[2026-04-21T17:03:43] ORDER_BOOK_REGION 调整前后: before={'left': 1594, 'top': 66, 'width': 274, 'height': 908}, after={'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:03:44] chart_grid 已保存: D:\agent_workspace\logs\screenshots\chart_grid_20260421_170343_984187.png | chart_grid_region={'left': 2, 'top': 66, 'width': 1616, 'height': 918} | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:03:44] chart_grid 已检测到并裁剪完成: True
+[2026-04-21T17:03:44] order_book 区域已准备: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:03:44] 子图裁剪参数: inset=(2, 2), regions={'chart_60m': {'left': 2, 'top': 2, 'width': 807, 'height': 451}, 'chart_15m': {'left': 815, 'top': 2, 'width': 803, 'height': 469}, 'chart_5m': {'left': 2, 'top': 459, 'width': 825, 'height': 473}, 'chart_1m': {'left': 815, 'top': 459, 'width': 805, 'height': 475}}
+[2026-04-21T17:03:44] chart_60m region: {'left': 2, 'top': 2, 'width': 807, 'height': 451}
+[2026-04-21T17:03:44] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_170344_070183.png | region={'left': 2, 'top': 2, 'width': 807, 'height': 451} | relative_box=(2, 2, 809, 453) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:03:44] chart_15m region: {'left': 815, 'top': 2, 'width': 803, 'height': 469}
+[2026-04-21T17:03:44] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_170344_095184.png | region={'left': 815, 'top': 2, 'width': 803, 'height': 469} | relative_box=(815, 2, 1618, 471) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:03:44] chart_5m region: {'left': 2, 'top': 459, 'width': 825, 'height': 473}
+[2026-04-21T17:03:44] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_170344_122181.png | region={'left': 2, 'top': 459, 'width': 825, 'height': 473} | relative_box=(2, 459, 827, 932) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:03:44] chart_1m region: {'left': 815, 'top': 459, 'width': 805, 'height': 475}
+[2026-04-21T17:03:44] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_170344_147186.png | region={'left': 815, 'top': 459, 'width': 805, 'height': 475} | relative_box=(815, 459, 1620, 934) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:03:44] order_book region: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:03:44] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_170344_173183.png | region={'left': 1608, 'top': 66, 'width': 328, 'height': 908} | relative_box=(1608, 66, 1936, 974) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:03:44] 问题检查: 15m=右侧已放松, 1m=右侧已放松, 5m=仍存在右侧过紧或串图风险, bottom=底部指标区已放松
+[2026-04-21T17:03:44] screenshot config frozen for chart regions
+[2026-04-21T17:03:44] only order_book optional tuning allowed
+[2026-04-21T17:03:44] 最终裁剪参数: CHART_GRID_REGION={'left': 2, 'top': 66, 'width': 1616, 'height': 918}, ORDER_BOOK_REGION={'left': 1608, 'top': 66, 'width': 328, 'height': 908}, CHART_60M_REGION={'left': 0, 'top': 0, 'width': 811, 'height': 455}, CHART_15M_REGION={'left': 813, 'top': 0, 'width': 807, 'height': 473}, CHART_5M_REGION={'left': 0, 'top': 457, 'width': 829, 'height': 477}, CHART_1M_REGION={'left': 813, 'top': 457, 'width': 809, 'height': 479}
+[2026-04-21T17:03:44] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_60m_20260421_170344_070183.png
+[2026-04-21T17:03:44] 开始分析开仓信号。
+[2026-04-21T17:03:44] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=None, confidence=0)。'}
+[2026-04-21T17:03:44] 主程序单次流程结束。
+[2026-04-21T17:03:56] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=None, confidence=0)。'}
+[2026-04-21T17:03:56] 主程序单次流程结束。
+[2026-04-21T17:12:54] 主程序启动，准备执行单次流程。
+[2026-04-21T17:12:54] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下]
+[2026-04-21T17:12:54] 已将行情端窗口切换到前台并激活。
+[2026-04-21T17:12:55] 截图前等待 0.5 秒完成。
+[2026-04-21T17:12:55] 点击进入行情前窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:12:55] 点击进入行情坐标: (113, 113) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:12:55] 点击后等待界面稳定: wait_seconds=0.8, checks=3
+[2026-04-21T17:12:56] 等待稳定后重新获取窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:12:56] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_171256_522708.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:12:56] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_171256_522708.png
+[2026-04-21T17:12:56] 完整窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:12:56] CHART_GRID_REGION 调整前后: before={'left': 2, 'top': 66, 'width': 1590, 'height': 908}, after={'left': 2, 'top': 66, 'width': 1616, 'height': 918}
+[2026-04-21T17:12:56] ORDER_BOOK_REGION 调整前后: before={'left': 1594, 'top': 66, 'width': 274, 'height': 908}, after={'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:12:56] chart_grid 已保存: D:\agent_workspace\logs\screenshots\chart_grid_20260421_171256_698702.png | chart_grid_region={'left': 2, 'top': 66, 'width': 1616, 'height': 918} | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:12:56] chart_grid 已检测到并裁剪完成: True
+[2026-04-21T17:12:56] order_book 区域已准备: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:12:56] 子图裁剪参数: inset=(2, 2), regions={'chart_60m': {'left': 2, 'top': 2, 'width': 807, 'height': 451}, 'chart_15m': {'left': 815, 'top': 2, 'width': 803, 'height': 469}, 'chart_5m': {'left': 2, 'top': 459, 'width': 825, 'height': 473}, 'chart_1m': {'left': 815, 'top': 459, 'width': 805, 'height': 475}}
+[2026-04-21T17:12:56] chart_60m region: {'left': 2, 'top': 2, 'width': 807, 'height': 451}
+[2026-04-21T17:12:56] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_171256_773712.png | region={'left': 2, 'top': 2, 'width': 807, 'height': 451} | relative_box=(2, 2, 809, 453) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:12:56] chart_15m region: {'left': 815, 'top': 2, 'width': 803, 'height': 469}
+[2026-04-21T17:12:56] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_171256_795715.png | region={'left': 815, 'top': 2, 'width': 803, 'height': 469} | relative_box=(815, 2, 1618, 471) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:12:56] chart_5m region: {'left': 2, 'top': 459, 'width': 825, 'height': 473}
+[2026-04-21T17:12:56] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_171256_816709.png | region={'left': 2, 'top': 459, 'width': 825, 'height': 473} | relative_box=(2, 459, 827, 932) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:12:56] chart_1m region: {'left': 815, 'top': 459, 'width': 805, 'height': 475}
+[2026-04-21T17:12:56] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_171256_839734.png | region={'left': 815, 'top': 459, 'width': 805, 'height': 475} | relative_box=(815, 459, 1620, 934) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:12:56] order_book region: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:12:56] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_171256_864712.png | region={'left': 1608, 'top': 66, 'width': 328, 'height': 908} | relative_box=(1608, 66, 1936, 974) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:12:56] 问题检查: 15m=右侧已放松, 1m=右侧已放松, 5m=仍存在右侧过紧或串图风险, bottom=底部指标区已放松
+[2026-04-21T17:12:56] screenshot config frozen for chart regions
+[2026-04-21T17:12:56] only order_book optional tuning allowed
+[2026-04-21T17:12:56] 最终裁剪参数: CHART_GRID_REGION={'left': 2, 'top': 66, 'width': 1616, 'height': 918}, ORDER_BOOK_REGION={'left': 1608, 'top': 66, 'width': 328, 'height': 908}, CHART_60M_REGION={'left': 0, 'top': 0, 'width': 811, 'height': 455}, CHART_15M_REGION={'left': 813, 'top': 0, 'width': 807, 'height': 473}, CHART_5M_REGION={'left': 0, 'top': 457, 'width': 829, 'height': 477}, CHART_1M_REGION={'left': 813, 'top': 457, 'width': 809, 'height': 479}
+[2026-04-21T17:12:56] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_60m_20260421_171256_773712.png
+[2026-04-21T17:12:56] 开始分析开仓信号。
+[2026-04-21T17:13:10] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=None, confidence=0)。'}
+[2026-04-21T17:13:10] 主程序单次流程结束。
+[2026-04-21T17:13:26] 主程序启动，准备执行单次流程。
+[2026-04-21T17:13:26] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下]
+[2026-04-21T17:13:26] 已将行情端窗口切换到前台并激活。
+[2026-04-21T17:13:27] 截图前等待 0.5 秒完成。
+[2026-04-21T17:13:27] 点击进入行情前窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:13:27] 点击进入行情坐标: (113, 113) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:13:27] 点击后等待界面稳定: wait_seconds=0.8, checks=3
+[2026-04-21T17:13:28] 等待稳定后重新获取窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:13:28] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_171328_505538.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:13:28] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_171328_505538.png
+[2026-04-21T17:13:28] 完整窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:13:28] CHART_GRID_REGION 调整前后: before={'left': 2, 'top': 66, 'width': 1590, 'height': 908}, after={'left': 2, 'top': 66, 'width': 1616, 'height': 918}
+[2026-04-21T17:13:28] ORDER_BOOK_REGION 调整前后: before={'left': 1594, 'top': 66, 'width': 274, 'height': 908}, after={'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:13:28] chart_grid 已保存: D:\agent_workspace\logs\screenshots\chart_grid_20260421_171328_773538.png | chart_grid_region={'left': 2, 'top': 66, 'width': 1616, 'height': 918} | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:13:28] chart_grid 已检测到并裁剪完成: True
+[2026-04-21T17:13:28] order_book 区域已准备: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:13:28] 子图裁剪参数: inset=(2, 2), regions={'chart_60m': {'left': 2, 'top': 2, 'width': 807, 'height': 451}, 'chart_15m': {'left': 815, 'top': 2, 'width': 803, 'height': 469}, 'chart_5m': {'left': 2, 'top': 459, 'width': 825, 'height': 473}, 'chart_1m': {'left': 815, 'top': 459, 'width': 805, 'height': 475}}
+[2026-04-21T17:13:28] chart_60m region: {'left': 2, 'top': 2, 'width': 807, 'height': 451}
+[2026-04-21T17:13:28] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_171328_859536.png | region={'left': 2, 'top': 2, 'width': 807, 'height': 451} | relative_box=(2, 2, 809, 453) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:13:28] chart_15m region: {'left': 815, 'top': 2, 'width': 803, 'height': 469}
+[2026-04-21T17:13:28] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_171328_885537.png | region={'left': 815, 'top': 2, 'width': 803, 'height': 469} | relative_box=(815, 2, 1618, 471) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:13:28] chart_5m region: {'left': 2, 'top': 459, 'width': 825, 'height': 473}
+[2026-04-21T17:13:28] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_171328_910537.png | region={'left': 2, 'top': 459, 'width': 825, 'height': 473} | relative_box=(2, 459, 827, 932) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:13:28] chart_1m region: {'left': 815, 'top': 459, 'width': 805, 'height': 475}
+[2026-04-21T17:13:28] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_171328_936536.png | region={'left': 815, 'top': 459, 'width': 805, 'height': 475} | relative_box=(815, 459, 1620, 934) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:13:28] order_book region: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:13:28] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_171328_962537.png | region={'left': 1608, 'top': 66, 'width': 328, 'height': 908} | relative_box=(1608, 66, 1936, 974) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:13:28] 问题检查: 15m=右侧已放松, 1m=右侧已放松, 5m=仍存在右侧过紧或串图风险, bottom=底部指标区已放松
+[2026-04-21T17:13:28] screenshot config frozen for chart regions
+[2026-04-21T17:13:28] only order_book optional tuning allowed
+[2026-04-21T17:13:28] 最终裁剪参数: CHART_GRID_REGION={'left': 2, 'top': 66, 'width': 1616, 'height': 918}, ORDER_BOOK_REGION={'left': 1608, 'top': 66, 'width': 328, 'height': 908}, CHART_60M_REGION={'left': 0, 'top': 0, 'width': 811, 'height': 455}, CHART_15M_REGION={'left': 813, 'top': 0, 'width': 807, 'height': 473}, CHART_5M_REGION={'left': 0, 'top': 457, 'width': 829, 'height': 477}, CHART_1M_REGION={'left': 813, 'top': 457, 'width': 809, 'height': 479}
+[2026-04-21T17:13:28] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_60m_20260421_171328_859536.png
+[2026-04-21T17:13:28] 开始分析开仓信号。
+[2026-04-21T17:13:42] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=None, confidence=0)。'}
+[2026-04-21T17:13:42] 主程序单次流程结束。
+[2026-04-21T17:20:07] PROMPT_CONTENT_CHECK_ISSUE: system_role: 缺少角色/边界/结构化输出相关描述
+[2026-04-21T17:20:07] PROMPT_CONTENT_CHECK_ISSUE: system_role: 缺少关键意图关键词: 角色
+[2026-04-21T17:20:07] PROMPT_CONTENT_CHECK_ISSUE: system_role: 缺少关键意图关键词: 输出
+[2026-04-21T17:20:07] PROMPT_CONTENT_CHECK_ISSUE: system_role: 缺少 JSON 输出要求
+[2026-04-21T17:20:07] PROMPT_CONTENT_CHECK_ISSUE: position_management_prompt: 缺少关键意图关键词: 仓位
+[2026-04-21T17:20:08] PROMPT_CONTENT_CHECK_ISSUE: system_role: 缺少角色/边界/结构化输出相关描述
+[2026-04-21T17:20:08] PROMPT_CONTENT_CHECK_ISSUE: system_role: 缺少关键意图关键词: 角色
+[2026-04-21T17:20:08] PROMPT_CONTENT_CHECK_ISSUE: system_role: 缺少关键意图关键词: 输出
+[2026-04-21T17:20:08] PROMPT_CONTENT_CHECK_ISSUE: system_role: 缺少 JSON 输出要求
+[2026-04-21T17:20:08] PROMPT_CONTENT_CHECK_ISSUE: position_management_prompt: 缺少关键意图关键词: 仓位
+[2026-04-21T17:20:10] 主程序启动，准备执行单次流程。
+[2026-04-21T17:20:10] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下]
+[2026-04-21T17:20:10] 已将行情端窗口切换到前台并激活。
+[2026-04-21T17:20:11] 截图前等待 0.5 秒完成。
+[2026-04-21T17:20:11] 点击进入行情前窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:20:11] 点击进入行情坐标: (113, 113) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:20:11] 点击后等待界面稳定: wait_seconds=0.8, checks=3
+[2026-04-21T17:20:12] 等待稳定后重新获取窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:20:12] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_172012_543025.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:20:12] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_172012_543025.png
+[2026-04-21T17:20:12] 完整窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:20:12] CHART_GRID_REGION 调整前后: before={'left': 2, 'top': 66, 'width': 1590, 'height': 908}, after={'left': 2, 'top': 66, 'width': 1616, 'height': 918}
+[2026-04-21T17:20:12] ORDER_BOOK_REGION 调整前后: before={'left': 1594, 'top': 66, 'width': 274, 'height': 908}, after={'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:20:12] chart_grid 已保存: D:\agent_workspace\logs\screenshots\chart_grid_20260421_172012_757040.png | chart_grid_region={'left': 2, 'top': 66, 'width': 1616, 'height': 918} | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:20:12] chart_grid 已检测到并裁剪完成: True
+[2026-04-21T17:20:12] order_book 区域已准备: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:20:12] 子图裁剪参数: inset=(2, 2), regions={'chart_60m': {'left': 2, 'top': 2, 'width': 807, 'height': 451}, 'chart_15m': {'left': 815, 'top': 2, 'width': 803, 'height': 469}, 'chart_5m': {'left': 2, 'top': 459, 'width': 825, 'height': 473}, 'chart_1m': {'left': 815, 'top': 459, 'width': 805, 'height': 475}}
+[2026-04-21T17:20:12] chart_60m region: {'left': 2, 'top': 2, 'width': 807, 'height': 451}
+[2026-04-21T17:20:12] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_172012_843040.png | region={'left': 2, 'top': 2, 'width': 807, 'height': 451} | relative_box=(2, 2, 809, 453) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:20:12] chart_15m region: {'left': 815, 'top': 2, 'width': 803, 'height': 469}
+[2026-04-21T17:20:12] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_172012_869040.png | region={'left': 815, 'top': 2, 'width': 803, 'height': 469} | relative_box=(815, 2, 1618, 471) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:20:12] chart_5m region: {'left': 2, 'top': 459, 'width': 825, 'height': 473}
+[2026-04-21T17:20:12] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_172012_894027.png | region={'left': 2, 'top': 459, 'width': 825, 'height': 473} | relative_box=(2, 459, 827, 932) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:20:12] chart_1m region: {'left': 815, 'top': 459, 'width': 805, 'height': 475}
+[2026-04-21T17:20:12] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_172012_920036.png | region={'left': 815, 'top': 459, 'width': 805, 'height': 475} | relative_box=(815, 459, 1620, 934) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:20:12] order_book region: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:20:12] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_172012_945039.png | region={'left': 1608, 'top': 66, 'width': 328, 'height': 908} | relative_box=(1608, 66, 1936, 974) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:20:12] 问题检查: 15m=右侧已放松, 1m=右侧已放松, 5m=仍存在右侧过紧或串图风险, bottom=底部指标区已放松
+[2026-04-21T17:20:12] screenshot config frozen for chart regions
+[2026-04-21T17:20:12] only order_book optional tuning allowed
+[2026-04-21T17:20:12] 最终裁剪参数: CHART_GRID_REGION={'left': 2, 'top': 66, 'width': 1616, 'height': 918}, ORDER_BOOK_REGION={'left': 1608, 'top': 66, 'width': 328, 'height': 908}, CHART_60M_REGION={'left': 0, 'top': 0, 'width': 811, 'height': 455}, CHART_15M_REGION={'left': 813, 'top': 0, 'width': 807, 'height': 473}, CHART_5M_REGION={'left': 0, 'top': 457, 'width': 829, 'height': 477}, CHART_1M_REGION={'left': 813, 'top': 457, 'width': 809, 'height': 479}
+[2026-04-21T17:20:12] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_60m_20260421_172012_843040.png
+[2026-04-21T17:20:12] 开始分析开仓信号。
+[2026-04-21T17:20:27] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=None, confidence=0)。'}
+[2026-04-21T17:20:27] 主程序单次流程结束。
+[2026-04-21T17:21:33] PROMPT_CONTENT_CHECK=PASS
+[2026-04-21T17:21:33] PROMPT_CONTENT_CHECK=PASS
+[2026-04-21T17:21:36] 主程序启动，准备执行单次流程。
+[2026-04-21T17:21:36] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下]
+[2026-04-21T17:21:36] 已将行情端窗口切换到前台并激活。
+[2026-04-21T17:21:37] 截图前等待 0.5 秒完成。
+[2026-04-21T17:21:37] 点击进入行情前窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:21:37] 点击进入行情坐标: (113, 113) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:21:37] 点击后等待界面稳定: wait_seconds=0.8, checks=3
+[2026-04-21T17:21:38] 等待稳定后重新获取窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:21:38] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_172138_146287.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:21:38] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_172138_146287.png
+[2026-04-21T17:21:38] 完整窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:21:38] CHART_GRID_REGION 调整前后: before={'left': 2, 'top': 66, 'width': 1590, 'height': 908}, after={'left': 2, 'top': 66, 'width': 1616, 'height': 918}
+[2026-04-21T17:21:38] ORDER_BOOK_REGION 调整前后: before={'left': 1594, 'top': 66, 'width': 274, 'height': 908}, after={'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:21:38] chart_grid 已保存: D:\agent_workspace\logs\screenshots\chart_grid_20260421_172138_363300.png | chart_grid_region={'left': 2, 'top': 66, 'width': 1616, 'height': 918} | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:21:38] chart_grid 已检测到并裁剪完成: True
+[2026-04-21T17:21:38] order_book 区域已准备: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:21:38] 子图裁剪参数: inset=(2, 2), regions={'chart_60m': {'left': 2, 'top': 2, 'width': 807, 'height': 451}, 'chart_15m': {'left': 815, 'top': 2, 'width': 803, 'height': 469}, 'chart_5m': {'left': 2, 'top': 459, 'width': 825, 'height': 473}, 'chart_1m': {'left': 815, 'top': 459, 'width': 805, 'height': 475}}
+[2026-04-21T17:21:38] chart_60m region: {'left': 2, 'top': 2, 'width': 807, 'height': 451}
+[2026-04-21T17:21:38] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_172138_447286.png | region={'left': 2, 'top': 2, 'width': 807, 'height': 451} | relative_box=(2, 2, 809, 453) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:21:38] chart_15m region: {'left': 815, 'top': 2, 'width': 803, 'height': 469}
+[2026-04-21T17:21:38] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_172138_472288.png | region={'left': 815, 'top': 2, 'width': 803, 'height': 469} | relative_box=(815, 2, 1618, 471) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:21:38] chart_5m region: {'left': 2, 'top': 459, 'width': 825, 'height': 473}
+[2026-04-21T17:21:38] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_172138_497300.png | region={'left': 2, 'top': 459, 'width': 825, 'height': 473} | relative_box=(2, 459, 827, 932) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:21:38] chart_1m region: {'left': 815, 'top': 459, 'width': 805, 'height': 475}
+[2026-04-21T17:21:38] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_172138_523287.png | region={'left': 815, 'top': 459, 'width': 805, 'height': 475} | relative_box=(815, 459, 1620, 934) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:21:38] order_book region: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:21:38] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_172138_549287.png | region={'left': 1608, 'top': 66, 'width': 328, 'height': 908} | relative_box=(1608, 66, 1936, 974) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:21:38] 问题检查: 15m=右侧已放松, 1m=右侧已放松, 5m=仍存在右侧过紧或串图风险, bottom=底部指标区已放松
+[2026-04-21T17:21:38] screenshot config frozen for chart regions
+[2026-04-21T17:21:38] only order_book optional tuning allowed
+[2026-04-21T17:21:38] 最终裁剪参数: CHART_GRID_REGION={'left': 2, 'top': 66, 'width': 1616, 'height': 918}, ORDER_BOOK_REGION={'left': 1608, 'top': 66, 'width': 328, 'height': 908}, CHART_60M_REGION={'left': 0, 'top': 0, 'width': 811, 'height': 455}, CHART_15M_REGION={'left': 813, 'top': 0, 'width': 807, 'height': 473}, CHART_5M_REGION={'left': 0, 'top': 457, 'width': 829, 'height': 477}, CHART_1M_REGION={'left': 813, 'top': 457, 'width': 809, 'height': 479}
+[2026-04-21T17:21:38] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_60m_20260421_172138_447286.png
+[2026-04-21T17:21:38] 开始分析开仓信号。
+[2026-04-21T17:21:47] PROMPT_CONTENT_CHECK=PASS
+[2026-04-21T17:21:50] 主程序启动，准备执行单次流程。
+[2026-04-21T17:21:50] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下]
+[2026-04-21T17:21:50] 已将行情端窗口切换到前台并激活。
+[2026-04-21T17:21:50] 截图前等待 0.5 秒完成。
+[2026-04-21T17:21:50] 点击进入行情前窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:21:50] 点击进入行情坐标: (113, 113) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:21:50] 点击后等待界面稳定: wait_seconds=0.8, checks=3
+[2026-04-21T17:21:51] 等待稳定后重新获取窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:21:52] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_172151_924206.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:21:52] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_172151_924206.png
+[2026-04-21T17:21:52] 完整窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:21:52] CHART_GRID_REGION 调整前后: before={'left': 2, 'top': 66, 'width': 1590, 'height': 908}, after={'left': 2, 'top': 66, 'width': 1616, 'height': 918}
+[2026-04-21T17:21:52] ORDER_BOOK_REGION 调整前后: before={'left': 1594, 'top': 66, 'width': 274, 'height': 908}, after={'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:21:52] chart_grid 已保存: D:\agent_workspace\logs\screenshots\chart_grid_20260421_172152_128205.png | chart_grid_region={'left': 2, 'top': 66, 'width': 1616, 'height': 918} | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:21:52] chart_grid 已检测到并裁剪完成: True
+[2026-04-21T17:21:52] order_book 区域已准备: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:21:52] 子图裁剪参数: inset=(2, 2), regions={'chart_60m': {'left': 2, 'top': 2, 'width': 807, 'height': 451}, 'chart_15m': {'left': 815, 'top': 2, 'width': 803, 'height': 469}, 'chart_5m': {'left': 2, 'top': 459, 'width': 825, 'height': 473}, 'chart_1m': {'left': 815, 'top': 459, 'width': 805, 'height': 475}}
+[2026-04-21T17:21:52] chart_60m region: {'left': 2, 'top': 2, 'width': 807, 'height': 451}
+[2026-04-21T17:21:52] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_172152_221207.png | region={'left': 2, 'top': 2, 'width': 807, 'height': 451} | relative_box=(2, 2, 809, 453) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:21:52] chart_15m region: {'left': 815, 'top': 2, 'width': 803, 'height': 469}
+[2026-04-21T17:21:52] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_172152_250210.png | region={'left': 815, 'top': 2, 'width': 803, 'height': 469} | relative_box=(815, 2, 1618, 471) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:21:52] chart_5m region: {'left': 2, 'top': 459, 'width': 825, 'height': 473}
+[2026-04-21T17:21:52] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_172152_284207.png | region={'left': 2, 'top': 459, 'width': 825, 'height': 473} | relative_box=(2, 459, 827, 932) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:21:52] chart_1m region: {'left': 815, 'top': 459, 'width': 805, 'height': 475}
+[2026-04-21T17:21:52] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_172152_309205.png | region={'left': 815, 'top': 459, 'width': 805, 'height': 475} | relative_box=(815, 459, 1620, 934) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:21:52] order_book region: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:21:52] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_172152_333204.png | region={'left': 1608, 'top': 66, 'width': 328, 'height': 908} | relative_box=(1608, 66, 1936, 974) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:21:52] 问题检查: 15m=右侧已放松, 1m=右侧已放松, 5m=仍存在右侧过紧或串图风险, bottom=底部指标区已放松
+[2026-04-21T17:21:52] screenshot config frozen for chart regions
+[2026-04-21T17:21:52] only order_book optional tuning allowed
+[2026-04-21T17:21:52] 最终裁剪参数: CHART_GRID_REGION={'left': 2, 'top': 66, 'width': 1616, 'height': 918}, ORDER_BOOK_REGION={'left': 1608, 'top': 66, 'width': 328, 'height': 908}, CHART_60M_REGION={'left': 0, 'top': 0, 'width': 811, 'height': 455}, CHART_15M_REGION={'left': 813, 'top': 0, 'width': 807, 'height': 473}, CHART_5M_REGION={'left': 0, 'top': 457, 'width': 829, 'height': 477}, CHART_1M_REGION={'left': 813, 'top': 457, 'width': 809, 'height': 479}
+[2026-04-21T17:21:52] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_60m_20260421_172152_221207.png
+[2026-04-21T17:21:52] 开始分析开仓信号。
+[2026-04-21T17:21:54] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=None, confidence=0)。'}
+[2026-04-21T17:21:54] 主程序单次流程结束。
+[2026-04-21T17:22:04] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=None, confidence=0)。'}
+[2026-04-21T17:22:04] 主程序单次流程结束。
+[2026-04-21T17:28:16] PROMPT_CONTENT_CHECK_ISSUE: open_signal_prompt: 缺少关键意图关键词: 信号
+[2026-04-21T17:28:16] PROMPT_JSON_RULE_CHECK=PASS
+[2026-04-21T17:28:17] PROMPT_CONTENT_CHECK_ISSUE: open_signal_prompt: 缺少关键意图关键词: 信号
+[2026-04-21T17:28:17] PROMPT_JSON_RULE_CHECK=PASS
+[2026-04-21T17:28:19] 主程序启动，准备执行单次流程。
+[2026-04-21T17:28:19] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下]
+[2026-04-21T17:28:19] 已将行情端窗口切换到前台并激活。
+[2026-04-21T17:28:20] 截图前等待 0.5 秒完成。
+[2026-04-21T17:28:20] 点击进入行情前窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:28:20] 点击进入行情坐标: (113, 113) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:28:20] 点击后等待界面稳定: wait_seconds=0.8, checks=3
+[2026-04-21T17:28:21] 等待稳定后重新获取窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:28:21] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_172821_463658.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:28:21] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_172821_463658.png
+[2026-04-21T17:28:21] 完整窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:28:21] CHART_GRID_REGION 调整前后: before={'left': 2, 'top': 66, 'width': 1590, 'height': 908}, after={'left': 2, 'top': 66, 'width': 1616, 'height': 918}
+[2026-04-21T17:28:21] ORDER_BOOK_REGION 调整前后: before={'left': 1594, 'top': 66, 'width': 274, 'height': 908}, after={'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:28:21] chart_grid 已保存: D:\agent_workspace\logs\screenshots\chart_grid_20260421_172821_658644.png | chart_grid_region={'left': 2, 'top': 66, 'width': 1616, 'height': 918} | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:28:21] chart_grid 已检测到并裁剪完成: True
+[2026-04-21T17:28:21] order_book 区域已准备: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:28:21] 子图裁剪参数: inset=(2, 2), regions={'chart_60m': {'left': 2, 'top': 2, 'width': 807, 'height': 451}, 'chart_15m': {'left': 815, 'top': 2, 'width': 803, 'height': 469}, 'chart_5m': {'left': 2, 'top': 459, 'width': 825, 'height': 473}, 'chart_1m': {'left': 815, 'top': 459, 'width': 805, 'height': 475}}
+[2026-04-21T17:28:21] chart_60m region: {'left': 2, 'top': 2, 'width': 807, 'height': 451}
+[2026-04-21T17:28:21] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_172821_735664.png | region={'left': 2, 'top': 2, 'width': 807, 'height': 451} | relative_box=(2, 2, 809, 453) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:28:21] chart_15m region: {'left': 815, 'top': 2, 'width': 803, 'height': 469}
+[2026-04-21T17:28:21] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_172821_757657.png | region={'left': 815, 'top': 2, 'width': 803, 'height': 469} | relative_box=(815, 2, 1618, 471) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:28:21] chart_5m region: {'left': 2, 'top': 459, 'width': 825, 'height': 473}
+[2026-04-21T17:28:21] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_172821_780648.png | region={'left': 2, 'top': 459, 'width': 825, 'height': 473} | relative_box=(2, 459, 827, 932) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:28:21] chart_1m region: {'left': 815, 'top': 459, 'width': 805, 'height': 475}
+[2026-04-21T17:28:21] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_172821_803660.png | region={'left': 815, 'top': 459, 'width': 805, 'height': 475} | relative_box=(815, 459, 1620, 934) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:28:21] order_book region: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:28:21] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_172821_829654.png | region={'left': 1608, 'top': 66, 'width': 328, 'height': 908} | relative_box=(1608, 66, 1936, 974) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:28:21] 问题检查: 15m=右侧已放松, 1m=右侧已放松, 5m=仍存在右侧过紧或串图风险, bottom=底部指标区已放松
+[2026-04-21T17:28:21] screenshot config frozen for chart regions
+[2026-04-21T17:28:21] only order_book optional tuning allowed
+[2026-04-21T17:28:21] 最终裁剪参数: CHART_GRID_REGION={'left': 2, 'top': 66, 'width': 1616, 'height': 918}, ORDER_BOOK_REGION={'left': 1608, 'top': 66, 'width': 328, 'height': 908}, CHART_60M_REGION={'left': 0, 'top': 0, 'width': 811, 'height': 455}, CHART_15M_REGION={'left': 813, 'top': 0, 'width': 807, 'height': 473}, CHART_5M_REGION={'left': 0, 'top': 457, 'width': 829, 'height': 477}, CHART_1M_REGION={'left': 813, 'top': 457, 'width': 809, 'height': 479}
+[2026-04-21T17:28:21] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_60m_20260421_172821_735664.png
+[2026-04-21T17:28:21] 开始分析开仓信号。
+[2026-04-21T17:28:32] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=None, confidence=0)。'}
+[2026-04-21T17:28:32] 主程序单次流程结束。
+[2026-04-21T17:28:54] PROMPT_CONTENT_CHECK=PASS
+[2026-04-21T17:28:54] PROMPT_JSON_RULE_CHECK=PASS
+[2026-04-21T17:28:55] PROMPT_CONTENT_CHECK=PASS
+[2026-04-21T17:28:55] PROMPT_JSON_RULE_CHECK=PASS
+[2026-04-21T17:28:58] 主程序启动，准备执行单次流程。
+[2026-04-21T17:28:58] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下]
+[2026-04-21T17:28:58] 已将行情端窗口切换到前台并激活。
+[2026-04-21T17:28:58] 截图前等待 0.5 秒完成。
+[2026-04-21T17:28:58] 点击进入行情前窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:28:58] 点击进入行情坐标: (113, 113) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:28:58] 点击后等待界面稳定: wait_seconds=0.8, checks=3
+[2026-04-21T17:28:59] 等待稳定后重新获取窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:28:59] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_172859_753469.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:28:59] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_172859_753469.png
+[2026-04-21T17:28:59] 完整窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:28:59] CHART_GRID_REGION 调整前后: before={'left': 2, 'top': 66, 'width': 1590, 'height': 908}, after={'left': 2, 'top': 66, 'width': 1616, 'height': 918}
+[2026-04-21T17:28:59] ORDER_BOOK_REGION 调整前后: before={'left': 1594, 'top': 66, 'width': 274, 'height': 908}, after={'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:29:00] chart_grid 已保存: D:\agent_workspace\logs\screenshots\chart_grid_20260421_172859_981468.png | chart_grid_region={'left': 2, 'top': 66, 'width': 1616, 'height': 918} | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:29:00] chart_grid 已检测到并裁剪完成: True
+[2026-04-21T17:29:00] order_book 区域已准备: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:29:00] 子图裁剪参数: inset=(2, 2), regions={'chart_60m': {'left': 2, 'top': 2, 'width': 807, 'height': 451}, 'chart_15m': {'left': 815, 'top': 2, 'width': 803, 'height': 469}, 'chart_5m': {'left': 2, 'top': 459, 'width': 825, 'height': 473}, 'chart_1m': {'left': 815, 'top': 459, 'width': 805, 'height': 475}}
+[2026-04-21T17:29:00] chart_60m region: {'left': 2, 'top': 2, 'width': 807, 'height': 451}
+[2026-04-21T17:29:00] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_172900_094469.png | region={'left': 2, 'top': 2, 'width': 807, 'height': 451} | relative_box=(2, 2, 809, 453) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:29:00] chart_15m region: {'left': 815, 'top': 2, 'width': 803, 'height': 469}
+[2026-04-21T17:29:00] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_172900_120468.png | region={'left': 815, 'top': 2, 'width': 803, 'height': 469} | relative_box=(815, 2, 1618, 471) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:29:00] chart_5m region: {'left': 2, 'top': 459, 'width': 825, 'height': 473}
+[2026-04-21T17:29:00] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_172900_144468.png | region={'left': 2, 'top': 459, 'width': 825, 'height': 473} | relative_box=(2, 459, 827, 932) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:29:00] chart_1m region: {'left': 815, 'top': 459, 'width': 805, 'height': 475}
+[2026-04-21T17:29:00] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_172900_168467.png | region={'left': 815, 'top': 459, 'width': 805, 'height': 475} | relative_box=(815, 459, 1620, 934) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:29:00] order_book region: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:29:00] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_172900_192468.png | region={'left': 1608, 'top': 66, 'width': 328, 'height': 908} | relative_box=(1608, 66, 1936, 974) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:29:00] 问题检查: 15m=右侧已放松, 1m=右侧已放松, 5m=仍存在右侧过紧或串图风险, bottom=底部指标区已放松
+[2026-04-21T17:29:00] screenshot config frozen for chart regions
+[2026-04-21T17:29:00] only order_book optional tuning allowed
+[2026-04-21T17:29:00] 最终裁剪参数: CHART_GRID_REGION={'left': 2, 'top': 66, 'width': 1616, 'height': 918}, ORDER_BOOK_REGION={'left': 1608, 'top': 66, 'width': 328, 'height': 908}, CHART_60M_REGION={'left': 0, 'top': 0, 'width': 811, 'height': 455}, CHART_15M_REGION={'left': 813, 'top': 0, 'width': 807, 'height': 473}, CHART_5M_REGION={'left': 0, 'top': 457, 'width': 829, 'height': 477}, CHART_1M_REGION={'left': 813, 'top': 457, 'width': 809, 'height': 479}
+[2026-04-21T17:29:00] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_60m_20260421_172900_094469.png
+[2026-04-21T17:29:00] 开始分析开仓信号。
+[2026-04-21T17:29:09] PROMPT_CONTENT_CHECK=PASS
+[2026-04-21T17:29:09] PROMPT_JSON_RULE_CHECK=PASS
+[2026-04-21T17:29:10] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=None, confidence=0)。'}
+[2026-04-21T17:29:10] 主程序单次流程结束。
+[2026-04-21T17:29:12] 主程序启动，准备执行单次流程。
+[2026-04-21T17:29:12] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下]
+[2026-04-21T17:29:12] 已将行情端窗口切换到前台并激活。
+[2026-04-21T17:29:12] 截图前等待 0.5 秒完成。
+[2026-04-21T17:29:12] 点击进入行情前窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:29:12] 点击进入行情坐标: (113, 113) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:29:13] 点击后等待界面稳定: wait_seconds=0.8, checks=3
+[2026-04-21T17:29:14] 等待稳定后重新获取窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:29:14] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_172914_069154.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:29:14] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_172914_069154.png
+[2026-04-21T17:29:14] 完整窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:29:14] CHART_GRID_REGION 调整前后: before={'left': 2, 'top': 66, 'width': 1590, 'height': 908}, after={'left': 2, 'top': 66, 'width': 1616, 'height': 918}
+[2026-04-21T17:29:14] ORDER_BOOK_REGION 调整前后: before={'left': 1594, 'top': 66, 'width': 274, 'height': 908}, after={'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:29:14] chart_grid 已保存: D:\agent_workspace\logs\screenshots\chart_grid_20260421_172914_279144.png | chart_grid_region={'left': 2, 'top': 66, 'width': 1616, 'height': 918} | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:29:14] chart_grid 已检测到并裁剪完成: True
+[2026-04-21T17:29:14] order_book 区域已准备: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:29:14] 子图裁剪参数: inset=(2, 2), regions={'chart_60m': {'left': 2, 'top': 2, 'width': 807, 'height': 451}, 'chart_15m': {'left': 815, 'top': 2, 'width': 803, 'height': 469}, 'chart_5m': {'left': 2, 'top': 459, 'width': 825, 'height': 473}, 'chart_1m': {'left': 815, 'top': 459, 'width': 805, 'height': 475}}
+[2026-04-21T17:29:14] chart_60m region: {'left': 2, 'top': 2, 'width': 807, 'height': 451}
+[2026-04-21T17:29:14] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_172914_364141.png | region={'left': 2, 'top': 2, 'width': 807, 'height': 451} | relative_box=(2, 2, 809, 453) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:29:14] chart_15m region: {'left': 815, 'top': 2, 'width': 803, 'height': 469}
+[2026-04-21T17:29:14] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_172914_389154.png | region={'left': 815, 'top': 2, 'width': 803, 'height': 469} | relative_box=(815, 2, 1618, 471) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:29:14] chart_5m region: {'left': 2, 'top': 459, 'width': 825, 'height': 473}
+[2026-04-21T17:29:14] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_172914_415140.png | region={'left': 2, 'top': 459, 'width': 825, 'height': 473} | relative_box=(2, 459, 827, 932) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:29:14] chart_1m region: {'left': 815, 'top': 459, 'width': 805, 'height': 475}
+[2026-04-21T17:29:14] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_172914_440154.png | region={'left': 815, 'top': 459, 'width': 805, 'height': 475} | relative_box=(815, 459, 1620, 934) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:29:14] order_book region: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:29:14] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_172914_467154.png | region={'left': 1608, 'top': 66, 'width': 328, 'height': 908} | relative_box=(1608, 66, 1936, 974) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:29:14] 问题检查: 15m=右侧已放松, 1m=右侧已放松, 5m=仍存在右侧过紧或串图风险, bottom=底部指标区已放松
+[2026-04-21T17:29:14] screenshot config frozen for chart regions
+[2026-04-21T17:29:14] only order_book optional tuning allowed
+[2026-04-21T17:29:14] 最终裁剪参数: CHART_GRID_REGION={'left': 2, 'top': 66, 'width': 1616, 'height': 918}, ORDER_BOOK_REGION={'left': 1608, 'top': 66, 'width': 328, 'height': 908}, CHART_60M_REGION={'left': 0, 'top': 0, 'width': 811, 'height': 455}, CHART_15M_REGION={'left': 813, 'top': 0, 'width': 807, 'height': 473}, CHART_5M_REGION={'left': 0, 'top': 457, 'width': 829, 'height': 477}, CHART_1M_REGION={'left': 813, 'top': 457, 'width': 809, 'height': 479}
+[2026-04-21T17:29:14] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_60m_20260421_172914_364141.png
+[2026-04-21T17:29:14] 开始分析开仓信号。
+[2026-04-21T17:29:25] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=None, confidence=0)。'}
+[2026-04-21T17:29:25] 主程序单次流程结束。
+[2026-04-21T17:37:10] PROMPT_CONTENT_CHECK=PASS
+[2026-04-21T17:37:10] PROMPT_JSON_RULE_CHECK=PASS
+[2026-04-21T17:37:10] PROMPT_CONTENT_CHECK=PASS
+[2026-04-21T17:37:10] PROMPT_JSON_RULE_CHECK=PASS
+[2026-04-21T17:37:13] 主程序启动，准备执行单次流程。
+[2026-04-21T17:37:13] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下]
+[2026-04-21T17:37:13] 已将行情端窗口切换到前台并激活。
+[2026-04-21T17:37:13] 截图前等待 0.5 秒完成。
+[2026-04-21T17:37:13] 点击进入行情前窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:37:13] 点击进入行情坐标: (113, 113) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:37:13] 点击后等待界面稳定: wait_seconds=0.8, checks=3
+[2026-04-21T17:37:14] 等待稳定后重新获取窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:37:15] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_173714_967321.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:37:15] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_173714_967321.png
+[2026-04-21T17:37:15] 完整窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:37:15] CHART_GRID_REGION 调整前后: before={'left': 2, 'top': 66, 'width': 1590, 'height': 908}, after={'left': 2, 'top': 66, 'width': 1616, 'height': 918}
+[2026-04-21T17:37:15] ORDER_BOOK_REGION 调整前后: before={'left': 1594, 'top': 66, 'width': 274, 'height': 908}, after={'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:37:15] chart_grid 已保存: D:\agent_workspace\logs\screenshots\chart_grid_20260421_173715_180319.png | chart_grid_region={'left': 2, 'top': 66, 'width': 1616, 'height': 918} | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:37:15] chart_grid 已检测到并裁剪完成: True
+[2026-04-21T17:37:15] order_book 区域已准备: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:37:15] 子图裁剪参数: inset=(2, 2), regions={'chart_60m': {'left': 2, 'top': 2, 'width': 807, 'height': 451}, 'chart_15m': {'left': 815, 'top': 2, 'width': 803, 'height': 469}, 'chart_5m': {'left': 2, 'top': 459, 'width': 825, 'height': 473}, 'chart_1m': {'left': 815, 'top': 459, 'width': 805, 'height': 475}}
+[2026-04-21T17:37:15] chart_60m region: {'left': 2, 'top': 2, 'width': 807, 'height': 451}
+[2026-04-21T17:37:15] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_173715_266320.png | region={'left': 2, 'top': 2, 'width': 807, 'height': 451} | relative_box=(2, 2, 809, 453) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:37:15] chart_15m region: {'left': 815, 'top': 2, 'width': 803, 'height': 469}
+[2026-04-21T17:37:15] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_173715_296322.png | region={'left': 815, 'top': 2, 'width': 803, 'height': 469} | relative_box=(815, 2, 1618, 471) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:37:15] chart_5m region: {'left': 2, 'top': 459, 'width': 825, 'height': 473}
+[2026-04-21T17:37:15] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_173715_324322.png | region={'left': 2, 'top': 459, 'width': 825, 'height': 473} | relative_box=(2, 459, 827, 932) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:37:15] chart_1m region: {'left': 815, 'top': 459, 'width': 805, 'height': 475}
+[2026-04-21T17:37:15] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_173715_352321.png | region={'left': 815, 'top': 459, 'width': 805, 'height': 475} | relative_box=(815, 459, 1620, 934) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:37:15] order_book region: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:37:15] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_173715_378322.png | region={'left': 1608, 'top': 66, 'width': 328, 'height': 908} | relative_box=(1608, 66, 1936, 974) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:37:15] 问题检查: 15m=右侧已放松, 1m=右侧已放松, 5m=仍存在右侧过紧或串图风险, bottom=底部指标区已放松
+[2026-04-21T17:37:15] screenshot config frozen for chart regions
+[2026-04-21T17:37:15] only order_book optional tuning allowed
+[2026-04-21T17:37:15] 最终裁剪参数: CHART_GRID_REGION={'left': 2, 'top': 66, 'width': 1616, 'height': 918}, ORDER_BOOK_REGION={'left': 1608, 'top': 66, 'width': 328, 'height': 908}, CHART_60M_REGION={'left': 0, 'top': 0, 'width': 811, 'height': 455}, CHART_15M_REGION={'left': 813, 'top': 0, 'width': 807, 'height': 473}, CHART_5M_REGION={'left': 0, 'top': 457, 'width': 829, 'height': 477}, CHART_1M_REGION={'left': 813, 'top': 457, 'width': 809, 'height': 479}
+[2026-04-21T17:37:15] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_60m_20260421_173715_266320.png
+[2026-04-21T17:37:15] 开始分析开仓信号。
+[2026-04-21T17:37:24] PROMPT_CONTENT_CHECK=PASS
+[2026-04-21T17:37:24] PROMPT_JSON_RULE_CHECK=PASS
+[2026-04-21T17:37:25] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=None, confidence=0)。'}
+[2026-04-21T17:37:25] 主程序单次流程结束。
+[2026-04-21T17:37:27] 主程序启动，准备执行单次流程。
+[2026-04-21T17:37:27] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下]
+[2026-04-21T17:37:27] 已将行情端窗口切换到前台并激活。
+[2026-04-21T17:37:28] 截图前等待 0.5 秒完成。
+[2026-04-21T17:37:28] 点击进入行情前窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:37:28] 点击进入行情坐标: (113, 113) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:37:28] 点击后等待界面稳定: wait_seconds=0.8, checks=3
+[2026-04-21T17:37:29] 等待稳定后重新获取窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:37:29] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_173729_313961.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:37:29] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_173729_313961.png
+[2026-04-21T17:37:29] 完整窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:37:29] CHART_GRID_REGION 调整前后: before={'left': 2, 'top': 66, 'width': 1590, 'height': 908}, after={'left': 2, 'top': 66, 'width': 1616, 'height': 918}
+[2026-04-21T17:37:29] ORDER_BOOK_REGION 调整前后: before={'left': 1594, 'top': 66, 'width': 274, 'height': 908}, after={'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:37:29] chart_grid 已保存: D:\agent_workspace\logs\screenshots\chart_grid_20260421_173729_507961.png | chart_grid_region={'left': 2, 'top': 66, 'width': 1616, 'height': 918} | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:37:29] chart_grid 已检测到并裁剪完成: True
+[2026-04-21T17:37:29] order_book 区域已准备: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:37:29] 子图裁剪参数: inset=(2, 2), regions={'chart_60m': {'left': 2, 'top': 2, 'width': 807, 'height': 451}, 'chart_15m': {'left': 815, 'top': 2, 'width': 803, 'height': 469}, 'chart_5m': {'left': 2, 'top': 459, 'width': 825, 'height': 473}, 'chart_1m': {'left': 815, 'top': 459, 'width': 805, 'height': 475}}
+[2026-04-21T17:37:29] chart_60m region: {'left': 2, 'top': 2, 'width': 807, 'height': 451}
+[2026-04-21T17:37:29] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_173729_611962.png | region={'left': 2, 'top': 2, 'width': 807, 'height': 451} | relative_box=(2, 2, 809, 453) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:37:29] chart_15m region: {'left': 815, 'top': 2, 'width': 803, 'height': 469}
+[2026-04-21T17:37:29] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_173729_642961.png | region={'left': 815, 'top': 2, 'width': 803, 'height': 469} | relative_box=(815, 2, 1618, 471) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:37:29] chart_5m region: {'left': 2, 'top': 459, 'width': 825, 'height': 473}
+[2026-04-21T17:37:29] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_173729_667961.png | region={'left': 2, 'top': 459, 'width': 825, 'height': 473} | relative_box=(2, 459, 827, 932) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:37:29] chart_1m region: {'left': 815, 'top': 459, 'width': 805, 'height': 475}
+[2026-04-21T17:37:29] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_173729_693961.png | region={'left': 815, 'top': 459, 'width': 805, 'height': 475} | relative_box=(815, 459, 1620, 934) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T17:37:29] order_book region: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T17:37:29] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_173729_719961.png | region={'left': 1608, 'top': 66, 'width': 328, 'height': 908} | relative_box=(1608, 66, 1936, 974) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T17:37:29] 问题检查: 15m=右侧已放松, 1m=右侧已放松, 5m=仍存在右侧过紧或串图风险, bottom=底部指标区已放松
+[2026-04-21T17:37:29] screenshot config frozen for chart regions
+[2026-04-21T17:37:29] only order_book optional tuning allowed
+[2026-04-21T17:37:29] 最终裁剪参数: CHART_GRID_REGION={'left': 2, 'top': 66, 'width': 1616, 'height': 918}, ORDER_BOOK_REGION={'left': 1608, 'top': 66, 'width': 328, 'height': 908}, CHART_60M_REGION={'left': 0, 'top': 0, 'width': 811, 'height': 455}, CHART_15M_REGION={'left': 813, 'top': 0, 'width': 807, 'height': 473}, CHART_5M_REGION={'left': 0, 'top': 457, 'width': 829, 'height': 477}, CHART_1M_REGION={'left': 813, 'top': 457, 'width': 809, 'height': 479}
+[2026-04-21T17:37:29] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_60m_20260421_173729_611962.png
+[2026-04-21T17:37:29] 开始分析开仓信号。
+[2026-04-21T17:37:39] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(signal=None, confidence=0)。'}
+[2026-04-21T17:37:39] 主程序单次流程结束。
+[2026-04-21T18:16:13] PROMPT_CONTENT_CHECK=PASS
+[2026-04-21T18:16:13] PROMPT_JSON_RULE_CHECK=PASS
+[2026-04-21T18:16:16] 主程序启动，准备执行单次流程。
+[2026-04-21T18:16:16] 找到行情端窗口: OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下]
+[2026-04-21T18:16:16] 已将行情端窗口切换到前台并激活。
+[2026-04-21T18:16:16] 截图前等待 0.5 秒完成。
+[2026-04-21T18:16:16] 点击进入行情前窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T18:16:16] 点击进入行情坐标: (113, 113) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T18:16:16] 点击后等待界面稳定: wait_seconds=0.8, checks=3
+[2026-04-21T18:16:17] 等待稳定后重新获取窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T18:16:17] 完整行情端窗口截图已保存: D:\agent_workspace\logs\screenshots\window_full_20260421_181617_628104.png | 标题=OkFarm社区行情端.130 - [Garbanzo Beans(鹰嘴豆)/UAU 60分 下] | 矩形={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T18:16:17] 用于校准的完整窗口截图路径: D:\agent_workspace\logs\screenshots\window_full_20260421_181617_628104.png
+[2026-04-21T18:16:17] 完整窗口矩形: {'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T18:16:17] CHART_GRID_REGION 调整前后: before={'left': 2, 'top': 66, 'width': 1590, 'height': 908}, after={'left': 2, 'top': 66, 'width': 1616, 'height': 918}
+[2026-04-21T18:16:17] ORDER_BOOK_REGION 调整前后: before={'left': 1594, 'top': 66, 'width': 274, 'height': 908}, after={'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T18:16:17] chart_grid 已保存: D:\agent_workspace\logs\screenshots\chart_grid_20260421_181617_845103.png | chart_grid_region={'left': 2, 'top': 66, 'width': 1616, 'height': 918} | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T18:16:17] chart_grid 已检测到并裁剪完成: True
+[2026-04-21T18:16:17] order_book 区域已准备: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T18:16:17] 子图裁剪参数: inset=(2, 2), regions={'chart_60m': {'left': 2, 'top': 2, 'width': 807, 'height': 451}, 'chart_15m': {'left': 815, 'top': 2, 'width': 803, 'height': 469}, 'chart_5m': {'left': 2, 'top': 459, 'width': 825, 'height': 473}, 'chart_1m': {'left': 815, 'top': 459, 'width': 805, 'height': 475}}
+[2026-04-21T18:16:17] chart_60m region: {'left': 2, 'top': 2, 'width': 807, 'height': 451}
+[2026-04-21T18:16:17] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_60m_20260421_181617_930104.png | region={'left': 2, 'top': 2, 'width': 807, 'height': 451} | relative_box=(2, 2, 809, 453) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T18:16:17] chart_15m region: {'left': 815, 'top': 2, 'width': 803, 'height': 469}
+[2026-04-21T18:16:17] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_15m_20260421_181617_955104.png | region={'left': 815, 'top': 2, 'width': 803, 'height': 469} | relative_box=(815, 2, 1618, 471) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T18:16:17] chart_5m region: {'left': 2, 'top': 459, 'width': 825, 'height': 473}
+[2026-04-21T18:16:18] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_5m_20260421_181617_980103.png | region={'left': 2, 'top': 459, 'width': 825, 'height': 473} | relative_box=(2, 459, 827, 932) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T18:16:18] chart_1m region: {'left': 815, 'top': 459, 'width': 805, 'height': 475}
+[2026-04-21T18:16:18] 区域截图保存完成: D:\agent_workspace\logs\screenshots\chart_1m_20260421_181618_006098.png | region={'left': 815, 'top': 459, 'width': 805, 'height': 475} | relative_box=(815, 459, 1620, 934) | window_rect={'left': 0, 'top': 0, 'width': 1616, 'height': 918}
+[2026-04-21T18:16:18] order_book region: {'left': 1608, 'top': 66, 'width': 328, 'height': 908}
+[2026-04-21T18:16:18] 区域截图保存完成: D:\agent_workspace\logs\screenshots\order_book_20260421_181618_032097.png | region={'left': 1608, 'top': 66, 'width': 328, 'height': 908} | relative_box=(1608, 66, 1936, 974) | window_rect={'left': -7, 'top': -7, 'width': 1934, 'height': 1056}
+[2026-04-21T18:16:18] 问题检查: 15m=右侧已放松, 1m=右侧已放松, 5m=仍存在右侧过紧或串图风险, bottom=底部指标区已放松
+[2026-04-21T18:16:18] screenshot config frozen for chart regions
+[2026-04-21T18:16:18] only order_book optional tuning allowed
+[2026-04-21T18:16:18] 最终裁剪参数: CHART_GRID_REGION={'left': 2, 'top': 66, 'width': 1616, 'height': 918}, ORDER_BOOK_REGION={'left': 1608, 'top': 66, 'width': 328, 'height': 908}, CHART_60M_REGION={'left': 0, 'top': 0, 'width': 811, 'height': 455}, CHART_15M_REGION={'left': 813, 'top': 0, 'width': 807, 'height': 473}, CHART_5M_REGION={'left': 0, 'top': 457, 'width': 829, 'height': 477}, CHART_1M_REGION={'left': 813, 'top': 457, 'width': 809, 'height': 479}
+[2026-04-21T18:16:18] OCR 状态检测调用，image_path=D:\agent_workspace\logs\screenshots\chart_60m_20260421_181617_930104.png
+[2026-04-21T18:16:18] 开始分析开仓信号。
+[2026-04-21T18:16:26] OPEN_SIGNAL_RESULT_CHECK=PASS; OPEN_SIGNAL_RESULT_NORMALIZED=NO; OPEN_SIGNAL_RESULT_DOWNGRADED_TO_WAIT=NO
+[2026-04-21T18:16:26] OPEN_SIGNAL_RESULT_CHECK=PASS
+[2026-04-21T18:16:26] 决策结果: {'action': 'WAIT', 'allowed': False, 'direction': None, 'price': 0, 'lots': 0, 'reason': '信号不足或置信度未达标(action=WAIT, allowed=False, confidence=0)。'}
+[2026-04-21T18:16:26] 主程序单次流程结束。

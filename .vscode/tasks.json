@@ -1,0 +1,59 @@
+﻿{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "安装依赖",
+      "type": "shell",
+      "command": "pip install -r requirements.txt",
+      "problemMatcher": []
+    },
+    {
+      "label": "运行主程序",
+      "type": "shell",
+      "command": "python src/main.py",
+      "problemMatcher": []
+    },
+    {
+      "label": "测试截图模块",
+      "type": "shell",
+      "command": "python src/screenshot.py",
+      "problemMatcher": []
+    },
+    {
+      "label": "测试OCR模块",
+      "type": "shell",
+      "command": "python -c \"import sys; from pathlib import Path; root=Path.cwd(); sys.path.insert(0, str(root / 'src')); from ocr_state import detect_position_status; print(detect_position_status())\"",
+      "problemMatcher": []
+    },
+    {
+      "label": "测试GPT分析模块",
+      "type": "shell",
+      "command": "python -c \"import sys; from pathlib import Path; root=Path.cwd(); sys.path.insert(0, str(root / 'src')); from gpt_analyzer import analyze_open_signal; print(analyze_open_signal([]))\"",
+      "problemMatcher": []
+    },
+    {
+      "label": "测试自动填单模块",
+      "type": "shell",
+      "command": "python -c \"import sys; from pathlib import Path; root=Path.cwd(); sys.path.insert(0, str(root / 'src')); from order_filler import fill_order; print(fill_order('LONG', 1.0, 1, dry_run=True))\"",
+      "problemMatcher": []
+    },
+    {
+      "label": "运行 pytest",
+      "type": "shell",
+      "command": "pytest -q",
+      "problemMatcher": []
+    },
+    {
+      "label": "格式化代码",
+      "type": "shell",
+      "command": "black src tests",
+      "problemMatcher": []
+    },
+    {
+      "label": "查看 git status",
+      "type": "shell",
+      "command": "git status --short",
+      "problemMatcher": []
+    }
+  ]
+}
