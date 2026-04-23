@@ -52,6 +52,41 @@ OPENAI_API_KEY=你的密钥
 - 格式化代码
 - 查看 git status
 
+### replay 测试说明
+
+replay 测试数据位于 `data/replay_cases/*.json`，用于离线回放校验，不依赖网络、不需要登录 GitHub，也不需要新增依赖。
+
+常见字段包括：
+
+- `case_id`
+- `position_state`
+- `analysis_result`
+- `last_exit_time`
+- `meta`
+
+replay 测试链路：`replay_loader -> result_validator -> decision_engine`
+
+运行示例：
+
+```bash
+pytest tests/test_replay_loader.py
+pytest tests/test_replay_cases.py
+pytest tests/test_replay_decision_engine.py
+pytest
+```
+
+示例片段：
+
+```json
+{
+  "case_id": "sample_case_x",
+  "position_state": {"has_position": false, "direction": "none", "lots": 0},
+  "analysis_result": {"action": "BUY", "allowed": true, "direction": "long"},
+  "last_exit_time": null,
+  "meta": {"source": "replay"}
+}
+```
+
 ## 6. 如何运行 `main.py`
 
 推荐使用包方式启动：
