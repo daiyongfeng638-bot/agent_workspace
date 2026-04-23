@@ -33,6 +33,7 @@ def _read_image_as_b64(path: str) -> str:
 
 def _mock_open_result(image_paths: List[str]) -> Dict[str, Any]:
     return {
+        "signal": "NONE",
         "action": "WAIT",
         "allowed": False,
         "direction": "none",
