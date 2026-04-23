@@ -1,0 +1,22 @@
+﻿{
+  "case_id": "sample_case_03",
+  "position_state": {
+    "has_position": true,
+    "direction": "long",
+    "lots": 1
+  },
+  "analysis_result": {
+    "action": "ADD",
+    "allowed": true,
+    "direction": "long",
+    "size_adjustment": 1,
+    "confidence": 0.8,
+    "invalidated": true,
+    "reason": "sample invalidated add"
+  },
+  "last_exit_time": null,
+  "meta": {
+    "source": "replay",
+    "note": "invalidated add should downgrade to reduce"
+  }
+}

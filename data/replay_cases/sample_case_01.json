@@ -1,0 +1,23 @@
+{
+  "case_id": "sample_case_01",
+  "position_state": {
+    "has_position": false,
+    "direction": "none",
+    "lots": 0
+  },
+  "analysis_result": {
+    "action": "BUY",
+    "allowed": true,
+    "direction": "long",
+    "entry_price": 1.234,
+    "stop_loss": 1.22,
+    "take_profit": 1.26,
+    "confidence": 0.82,
+    "reason": "sample open signal"
+  },
+  "last_exit_time": null,
+  "meta": {
+    "source": "replay",
+    "note": "open signal case"
+  }
+}

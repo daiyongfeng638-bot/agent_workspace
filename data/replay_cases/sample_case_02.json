@@ -1,0 +1,20 @@
+{
+  "case_id": "sample_case_02",
+  "position_state": {
+    "has_position": true,
+    "direction": "long",
+    "lots": 2
+  },
+  "analysis_result": {
+    "action": "HOLD",
+    "allowed": false,
+    "direction": "none",
+    "confidence": 0.2,
+    "reason": "sample hold"
+  },
+  "last_exit_time": null,
+  "meta": {
+    "source": "replay",
+    "note": "hold case"
+  }
+}
