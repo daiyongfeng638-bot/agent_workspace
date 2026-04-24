@@ -5,4 +5,5 @@
 logs/screenshots/
 logs/analysis/
 logs/trades/
+logs/app.log
 .vscode/*.log
